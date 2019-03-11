@@ -1,0 +1,43 @@
+Check-in with Riley re: Project 4
+
+What we have so far:
+- Working API connection and querying functions
+- Working webscraping capabilities (these are slow)
+- 1000 randomly sampled ZIP codes
+- Yelp API data related to 1000 random zips incl
+    - Number of each $ category ($, $$, $$$, $$$$)
+    - Number of reviews within each category
+    - results for Restaurants, SHopping, Local Services
+
+- IRS Tax Data for All US ZIP codes
+- Metrics for each ZIP to estimate "Affluence"
+    - Adjusted Gross Income
+    - Property tax paid
+    - Pension tax paid
+    - Real Estate tax paid
+    - # of filers -> creates a per-filing Affluence Metric
+    
+Models:
+- Standardized Linear Regression
+    Features:
+    - # of each $ multiplied by # of reviews
+    - latitude/longitude
+    - Results are poor
+- Target variable:
+    - Log of Affluence value for each ZIP, better than non-log result
+    
+Ideas:
+- Create two new models
+    - New York City
+    - Small State(s)
+        - RI/CT/DE
+- Incorporate categories and subcategories of business
+    i.e. Mexican cuisine, laundromat instead of Restaurant, Local Service
+    
+- Incorporate neighboring ZIP values 
+    - Include query results for "best match" ZIPs as additional features
+    
+- Broaden search arguments
+    - Convert string "neighborhood" queries into combination of relevant ZIPs
+    ! each neighborhood also needs its own per-filing metric
+   

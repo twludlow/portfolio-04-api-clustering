@@ -1,0 +1,1501 @@
+zip,city,state,cat,pr_1,rv_1,pr_2,rv_2,pr_3,rv_3,pr_4,rv_4,avg_lat,avg_long,db_city
+65733,Protem,MO,restaurants,0,0,0,0,0,0,0,0,36.5011617155165,-92.80462358891964,Protem
+65733,Protem,MO,shopping,0,0,0,0,0,0,0,0,36.52,-92.85,Protem
+65733,Protem,MO,localservices,0,0,0,0,0,0,0,0,36.52,-92.85,Protem
+65768,Vanzant,MO,restaurants,0,0,0,0,0,0,0,0,36.96,-92.3,Vanzant
+65768,Vanzant,MO,shopping,0,0,0,0,0,0,0,0,36.96,-92.3,Vanzant
+65768,Vanzant,MO,localservices,0,0,0,0,0,0,0,0,36.96,-92.3,Vanzant
+65772,Washburn,MO,restaurants,1,2,0,0,0,0,0,0,36.587369,-93.964885,Washburn
+65772,Washburn,MO,shopping,0,0,0,0,0,0,0,0,36.6,-94.02,Washburn
+65772,Washburn,MO,localservices,0,0,0,0,0,0,0,0,36.6,-94.02,Washburn
+59001,Absarokee,MT,restaurants,1,8,1,8,0,0,0,0,45.507813784999534,-109.44392490205068,Absarokee
+59001,Absarokee,MT,shopping,0,0,0,0,0,0,0,0,45.5,-109.56,Absarokee
+59001,Absarokee,MT,localservices,0,0,0,0,0,0,0,0,45.5,-109.56,Absarokee
+59074,Ryegate,MT,restaurants,0,0,0,0,0,0,0,0,46.39,-109.38,Ryegate
+59074,Ryegate,MT,shopping,0,0,0,0,0,0,0,0,46.39,-109.38,Ryegate
+59074,Ryegate,MT,localservices,0,0,0,0,0,0,0,0,46.39,-109.38,Ryegate
+59215,Circle,MT,restaurants,0,0,1,4,0,0,0,0,47.4174133135187,-105.588637649876,Circle
+59215,Circle,MT,shopping,0,0,0,0,0,0,0,0,47.56,-105.77,Circle
+59215,Circle,MT,localservices,0,0,0,0,0,0,0,0,47.56,-105.77,Circle
+59241,Hinsdale,MT,restaurants,0,0,0,0,0,0,0,0,48.39396,-107.08465,Hinsdale
+59241,Hinsdale,MT,shopping,0,0,0,0,0,0,0,0,48.42,-107.03,Hinsdale
+59241,Hinsdale,MT,localservices,0,0,0,0,0,0,0,0,48.42,-107.03,Hinsdale
+59414,Black Eagle,MT,restaurants,0,0,3,87,0,0,0,0,47.525835666666666,-111.278835,Black Eagle
+59414,Black Eagle,MT,shopping,0,0,0,0,0,0,0,0,47.529502,-111.279444,Black Eagle
+59414,Black Eagle,MT,localservices,0,0,0,0,0,0,0,0,47.529502,-111.279444,Black Eagle
+59731,Garrison,MT,restaurants,0,0,0,0,0,0,0,0,46.59,-112.83,Garrison
+59731,Garrison,MT,shopping,0,0,0,0,0,0,0,0,46.59,-112.83,Garrison
+59731,Garrison,MT,localservices,0,0,0,0,0,0,0,0,46.59,-112.83,Garrison
+59750,Butte,MT,restaurants,0,0,0,0,0,0,0,0,45.9,-112.73,Butte
+59750,Butte,MT,shopping,0,0,0,0,0,0,0,0,45.9,-112.73,Butte
+59750,Butte,MT,localservices,0,0,0,0,0,0,0,0,45.9,-112.73,Butte
+59820,Alberton,MT,restaurants,0,0,1,27,0,0,0,0,47.0033271984172,-114.491324718811,Alberton
+59820,Alberton,MT,shopping,1,10,0,0,0,0,0,0,47.00335,-114.47806,Alberton
+59820,Alberton,MT,localservices,0,0,0,0,0,0,0,0,46.86,-114.59,Alberton
+59866,Saint Regis,MT,restaurants,4,83,1,39,0,0,0,0,47.297606380000005,-115.09665336,Saint Regis
+59866,Saint Regis,MT,shopping,1,50,0,0,1,1,0,0,47.315492266666666,-115.06359506666668,Saint Regis
+59866,Saint Regis,MT,localservices,0,0,0,0,0,0,0,0,47.3007,-115.09546,Saint Regis
+68010,Boys Town,NE,restaurants,0,0,0,0,0,0,0,0,41.262555,-96.1265934,Boys Town
+68010,Boys Town,NE,shopping,0,0,0,0,0,0,0,0,41.262555,-96.1265934,Boys Town
+68010,Boys Town,NE,localservices,0,0,0,0,0,0,0,0,41.2534432,-96.1343892,Boys Town
+68047,Pender,NE,restaurants,0,0,1,1,0,0,0,0,42.11153385,-96.7059802,Pender
+68047,Pender,NE,shopping,1,1,0,0,0,0,0,0,42.1142249,-96.7073406,Pender
+68047,Pender,NE,localservices,0,0,0,0,0,0,0,0,42.11,-96.71,Pender
+68144,Omaha,NE,restaurants,41,1077,24,1892,1,173,0,0,41.235191826493825,-96.11977121141878,Omaha
+68144,Omaha,NE,shopping,9,101,47,288,8,74,3,10,41.23170705162192,-96.1224190041224,Omaha
+68144,Omaha,NE,localservices,1,5,6,46,0,0,0,0,41.23171669030313,-96.11871450210413,Omaha
+68341,De Witt,NE,restaurants,0,0,0,0,0,0,0,0,40.39,-96.92,De Witt
+68341,De Witt,NE,shopping,0,0,0,0,0,0,0,0,40.39,-96.92,De Witt
+68341,De Witt,NE,localservices,0,0,0,0,0,0,0,0,40.39,-96.92,De Witt
+68431,Rulo,NE,restaurants,0,0,0,0,0,0,0,0,40.05,-95.43,Rulo
+68431,Rulo,NE,shopping,0,0,0,0,0,0,0,0,40.05,-95.43,Rulo
+68431,Rulo,NE,localservices,0,0,0,0,0,0,0,0,40.05,-95.43,Rulo
+68455,Union,NE,restaurants,0,0,0,0,0,0,0,0,40.81,-95.92,Union
+68455,Union,NE,shopping,0,0,0,0,0,0,0,0,40.8132591,-95.9202423,Union
+68455,Union,NE,localservices,0,0,0,0,0,0,0,0,40.81,-95.92,Union
+68643,Leigh,NE,restaurants,0,0,0,0,0,0,0,0,41.7,-97.23,Leigh
+68643,Leigh,NE,shopping,0,0,0,0,0,0,0,0,41.7,-97.23,Leigh
+68643,Leigh,NE,localservices,0,0,0,0,0,0,0,0,41.7,-97.23,Leigh
+68757,Newcastle,NE,restaurants,0,0,0,0,0,0,0,0,42.65,-96.87,Newcastle
+68757,Newcastle,NE,shopping,0,0,0,0,0,0,0,0,42.65,-96.87,Newcastle
+68757,Newcastle,NE,localservices,0,0,0,0,0,0,0,0,42.65,-96.87,Newcastle
+68812,Amherst,NE,restaurants,1,4,0,0,0,0,0,0,40.83758,-99.27096,Amherst
+68812,Amherst,NE,shopping,0,0,0,0,0,0,0,0,40.83,-99.26,Amherst
+68812,Amherst,NE,localservices,0,0,0,0,0,0,0,0,40.83,-99.26,Amherst
+68850,Lexington,NE,restaurants,9,136,3,71,0,0,0,0,40.77036026622651,-99.74239075882232,Lexington
+68850,Lexington,NE,shopping,1,1,1,6,1,5,0,0,40.765792902798374,-99.74113197354126,Lexington
+68850,Lexington,NE,localservices,1,3,0,0,0,0,0,0,40.7457776274536,-99.7415685653687,Lexington
+68862,Ord,NE,restaurants,0,0,0,0,0,0,0,0,41.59049217454555,-98.95184811572264,Ord
+68862,Ord,NE,shopping,0,0,0,0,0,0,0,0,41.6,-98.92,Ord
+68862,Ord,NE,localservices,0,0,0,0,0,0,0,0,41.60183,-98.92878,Ord
+68935,Edgar,NE,restaurants,1,1,0,0,0,0,0,0,40.3705682605505,-97.9699809104204,Edgar
+68935,Edgar,NE,shopping,0,0,0,0,0,0,0,0,40.3720085957157,-97.9736633664094,Edgar
+68935,Edgar,NE,localservices,0,0,0,0,0,0,0,0,40.36,-97.97,Edgar
+68940,Funk,NE,restaurants,0,0,0,0,0,0,0,0,40.46,-99.24,Funk
+68940,Funk,NE,shopping,0,0,0,0,0,0,0,0,40.46,-99.24,Funk
+68940,Funk,NE,localservices,0,0,0,0,0,0,0,0,40.46,-99.24,Funk
+68941,Glenvil,NE,restaurants,0,0,0,0,0,0,0,0,40.5,-98.25,Glenvil
+68941,Glenvil,NE,shopping,0,0,1,2,0,0,0,0,40.481361,-98.244191,Glenvil
+68941,Glenvil,NE,localservices,0,0,0,0,0,0,0,0,40.5,-98.25,Glenvil
+68958,Loomis,NE,restaurants,0,0,0,0,0,0,0,0,40.47,-99.5,Loomis
+68958,Loomis,NE,shopping,0,0,0,0,0,0,0,0,40.47,-99.5,Loomis
+68958,Loomis,NE,localservices,0,0,0,0,0,0,0,0,40.47,-99.5,Loomis
+69022,Cambridge,NE,restaurants,1,5,1,4,0,0,0,0,40.282120750000004,-100.16497385,Cambridge
+69022,Cambridge,NE,shopping,0,0,0,0,0,0,0,0,40.2823156,-100.1662892,Cambridge
+69022,Cambridge,NE,localservices,0,0,0,0,0,0,0,0,40.28,-100.17,Cambridge
+69034,Indianola,NE,restaurants,0,0,0,0,0,0,0,0,40.23502,-100.41684,Indianola
+69034,Indianola,NE,shopping,0,0,0,0,0,0,0,0,40.23,-100.41,Indianola
+69034,Indianola,NE,localservices,0,0,0,0,0,0,0,0,40.23,-100.41,Indianola
+89008,Caliente,NV,restaurants,2,52,1,9,0,0,0,0,37.61285663907273,-114.51546266267133,Caliente
+89008,Caliente,NV,shopping,0,0,0,0,2,2,0,0,37.61964816418905,-114.51175920238,Caliente
+89008,Caliente,NV,localservices,1,1,0,0,0,0,0,0,37.614623345974,-114.509552813773,Caliente
+89110,Las Vegas,NV,restaurants,40,2047,20,1243,0,0,0,0,36.171272062689525,-115.06756263870373,Las Vegas
+89110,Las Vegas,NV,shopping,9,96,24,298,4,23,1,12,36.16858991644742,-115.06721452793116,Las Vegas
+89110,Las Vegas,NV,localservices,4,42,1,2,0,0,0,0,36.17220362722449,-115.07338642769061,Las Vegas
+89130,Las Vegas,NV,restaurants,33,1696,20,4517,1,192,0,0,36.241789651989244,-115.22754847424538,Las Vegas
+89130,Las Vegas,NV,shopping,11,108,24,622,7,62,1,22,36.24131735241563,-115.22689623717208,Las Vegas
+89130,Las Vegas,NV,localservices,3,16,5,67,1,5,0,0,36.24373021674988,-115.22743080684268,Las Vegas
+89412,Black Rock City,NV,restaurants,3,82,0,0,0,0,1,2,40.94966856445325,-119.44271576303399,Gerlach
+89412,Black Rock City,NV,shopping,0,0,0,0,0,0,0,0,40.86,-119.32,Gerlach
+89412,Black Rock City,NV,localservices,0,0,0,0,0,0,0,0,40.652578,-119.352507,Gerlach
+89423,Minden,NV,restaurants,11,366,13,1248,1,87,0,0,38.964451537104395,-119.77079177990554,Minden
+89423,Minden,NV,shopping,4,19,11,76,2,21,2,10,38.97721202707945,-119.76886854452081,Minden
+89423,Minden,NV,localservices,1,2,3,24,1,3,0,0,38.98993173080241,-119.76109103576856,Minden
+89445,Winnemucca,NV,restaurants,21,434,14,1700,0,0,0,0,40.96683794904773,-117.7384060731011,Winnemucca
+89445,Winnemucca,NV,shopping,7,85,10,31,3,7,0,0,40.966691353255385,-117.74072442705506,Winnemucca
+89445,Winnemucca,NV,localservices,1,2,0,0,0,0,0,0,40.980776317849084,-117.78788095527307,Winnemucca
+89821,Crescent Valley,NV,restaurants,0,0,0,0,0,0,0,0,40.52,-116.36,Crescent Valley
+89821,Crescent Valley,NV,shopping,0,0,0,0,0,0,0,0,40.52,-116.36,Crescent Valley
+89821,Crescent Valley,NV,localservices,0,0,0,0,0,0,0,0,40.52,-116.36,Crescent Valley
+03032,Auburn,NH,restaurants,2,36,1,9,0,0,0,0,43.0029358293048,-71.36205245040006,Auburn
+03032,Auburn,NH,shopping,0,0,0,0,0,0,0,0,42.95194,-71.35198,Auburn
+03032,Auburn,NH,localservices,0,0,0,0,0,0,0,0,42.99178218224973,-71.36339356651963,Auburn
+03044,Fremont,NH,restaurants,0,0,1,57,0,0,0,0,42.98246930054797,-71.1277707025047,Fremont
+03044,Fremont,NH,shopping,0,0,0,0,0,0,0,0,42.99,-71.14,Fremont
+03044,Fremont,NH,localservices,0,0,0,0,0,0,0,0,42.979961015729934,-71.11926128652448,Fremont
+03052,Litchfield,NH,restaurants,1,42,1,45,0,0,0,0,42.863849482266126,-71.4544012806719,Litchfield
+03052,Litchfield,NH,shopping,0,0,1,9,0,0,0,0,42.79798,-71.45572,Litchfield
+03052,Litchfield,NH,localservices,0,0,0,0,0,0,0,0,42.83,-71.46,Litchfield
+03076,Pelham,NH,restaurants,3,51,6,144,0,0,0,0,42.71420538531088,-71.31739685579245,Pelham
+03076,Pelham,NH,shopping,2,3,6,41,3,15,1,5,42.71691860966125,-71.31724112713061,Pelham
+03076,Pelham,NH,localservices,1,2,0,0,1,1,0,0,42.72618345667725,-71.31864195794677,Pelham
+03087,Windham,NH,restaurants,4,190,12,754,0,0,0,0,42.80551162821637,-71.29047543528705,Windham
+03087,Windham,NH,shopping,0,0,7,57,2,12,1,7,42.80944152112156,-71.27327272089198,Windham
+03087,Windham,NH,localservices,1,2,0,0,0,0,0,0,42.81129554238733,-71.29603755326156,Windham
+03261,Northwood,NH,restaurants,1,23,6,267,0,0,0,0,43.20351986219656,-71.17629813921238,Northwood
+03261,Northwood,NH,shopping,1,2,4,21,0,0,0,0,43.207798578720165,-71.19143046455133,Northwood
+03261,Northwood,NH,localservices,0,0,0,0,0,0,0,0,43.24286995,-71.247445,Northwood
+03607,South Acworth,NH,restaurants,0,0,0,0,0,0,0,0,43.18,-72.32,South Acworth
+03607,South Acworth,NH,shopping,0,0,0,0,0,0,0,0,43.18,-72.32,South Acworth
+03607,South Acworth,NH,localservices,0,0,0,0,0,0,0,0,43.18,-72.32,South Acworth
+03837,Gilmanton Iron Works,NH,restaurants,0,0,0,0,0,0,0,0,43.43,-71.34,Gilmanton Iron Works
+03837,Gilmanton Iron Works,NH,shopping,0,0,0,0,0,0,0,0,43.43,-71.34,Gilmanton Iron Works
+03837,Gilmanton Iron Works,NH,localservices,0,0,0,0,0,0,0,0,43.43,-71.34,Gilmanton Iron Works
+03853,Mirror Lake,NH,restaurants,0,0,0,0,0,0,0,0,43.63,-71.28,Mirror Lake
+03853,Mirror Lake,NH,shopping,0,0,0,0,0,0,0,0,43.63,-71.28,Mirror Lake
+03853,Mirror Lake,NH,localservices,0,0,0,0,0,0,0,0,43.61293,-71.27883,Mirror Lake
+07016,Cranford,NJ,restaurants,14,628,36,4588,6,769,0,0,40.653671191500194,-74.30214959427458,Cranford
+07016,Cranford,NJ,shopping,3,26,18,194,5,32,1,17,40.65439820663292,-74.30157162367917,Cranford
+07016,Cranford,NJ,localservices,0,0,6,27,2,27,0,0,40.65301064734609,-74.30008705082916,Cranford
+07046,Mountain Lakes,NJ,restaurants,1,83,3,290,2,235,0,0,40.88554502890687,-74.44985252067157,Mountain Lakes
+07046,Mountain Lakes,NJ,shopping,0,0,1,1,0,0,0,0,40.88474076666666,-74.44279426666667,Mountain Lakes
+07046,Mountain Lakes,NJ,localservices,0,0,1,1,0,0,0,0,40.88741424971801,-74.45039138444311,Mountain Lakes
+07078,Millburn,NJ,restaurants,4,173,4,454,1,61,0,0,40.72194206420854,-74.3264565600093,Short Hills
+07078,Millburn,NJ,shopping,1,10,7,67,6,26,1,4,40.724981053249756,-74.33260980199711,Short Hills
+07078,Millburn,NJ,localservices,0,0,1,9,0,0,0,0,40.724539152170976,-74.32658050546124,Short Hills
+07423,Ho Ho Kus,NJ,restaurants,2,74,8,513,2,328,0,0,40.99718357472558,-74.1101913338226,Ho Ho Kus
+07423,Ho Ho Kus,NJ,shopping,0,0,3,8,2,35,0,0,40.99738452907978,-74.11017356293087,Ho Ho Kus
+07423,Ho Ho Kus,NJ,localservices,0,0,0,0,0,0,0,0,40.99752095460808,-74.11040673363968,Ho Ho Kus
+07438,Oak Ridge,NJ,restaurants,7,141,8,312,0,0,0,0,41.029439240264395,-74.50665901378112,Oak Ridge
+07438,Oak Ridge,NJ,shopping,0,0,4,15,1,2,0,0,41.036895981466465,-74.50213605457076,Oak Ridge
+07438,Oak Ridge,NJ,localservices,0,0,0,0,0,0,0,0,41.041677743479234,-74.49351374810014,Oak Ridge
+07444,Pequannock,NJ,restaurants,10,267,7,955,0,0,0,0,40.96639438757429,-74.28971744298552,Pompton Plains
+07444,Pequannock,NJ,shopping,3,19,10,90,4,29,0,0,40.96918036235318,-74.28888609480528,Pompton Plains
+07444,Pequannock,NJ,localservices,0,0,0,0,0,0,0,0,40.968186096507885,-74.29187151257881,Pompton Plains
+07647,Northvale,NJ,restaurants,13,245,14,759,2,117,0,0,41.01090844099549,-73.94756889013784,Northvale
+07647,Northvale,NJ,shopping,3,8,7,36,3,22,0,0,41.00981324105149,-73.94625677455385,Northvale
+07647,Northvale,NJ,localservices,1,1,0,0,0,0,0,0,41.00890812166636,-73.9475810443093,Northvale
+07751,Morganville,NJ,restaurants,2,22,6,375,1,131,0,0,40.35783880585169,-74.28650051613832,Morganville
+07751,Morganville,NJ,shopping,0,0,10,122,0,0,1,9,40.355911200406695,-74.28362939890343,Morganville
+07751,Morganville,NJ,localservices,0,0,2,6,0,0,1,9,40.35967852581167,-74.27457662701748,Morganville
+07760,Rumson,NJ,restaurants,4,104,11,1299,10,1252,0,0,40.36705496915818,-73.98709142884826,Rumson
+07760,Rumson,NJ,shopping,0,0,2,42,2,4,0,0,40.371392179184106,-73.99497937293161,Rumson
+07760,Rumson,NJ,localservices,0,0,0,0,0,0,0,0,40.37456,-74.0095125,Rumson
+07821,Andover,NJ,restaurants,3,8,5,229,1,94,0,0,40.971823380405134,-74.73957295667562,Andover
+07821,Andover,NJ,shopping,2,17,1,25,1,6,0,0,40.98716327612158,-74.73385509373074,Andover
+07821,Andover,NJ,localservices,0,0,0,0,0,0,0,0,40.969887775552664,-74.73232537845746,Andover
+07927,Cedar Knolls,NJ,restaurants,5,112,4,269,1,269,0,0,40.81915221757717,-74.45397931438077,Cedar Knolls
+07927,Cedar Knolls,NJ,shopping,2,51,0,0,0,0,0,0,40.810420433333334,-74.46029655,Cedar Knolls
+07927,Cedar Knolls,NJ,localservices,0,0,0,0,0,0,0,0,40.81974475176274,-74.45561469762866,Cedar Knolls
+07932,Florham Park,NJ,restaurants,7,166,15,1396,1,24,0,0,40.78706995968783,-74.39427967207203,Florham Park
+07932,Florham Park,NJ,shopping,2,11,5,46,1,11,0,0,40.78839357449653,-74.39432588365763,Florham Park
+07932,Florham Park,NJ,localservices,1,6,2,23,0,0,0,0,40.784510425405436,-74.39472393990677,Florham Park
+08007,Barrington,NJ,restaurants,4,66,3,120,0,0,0,0,39.86951717182312,-75.05114103771476,Barrington
+08007,Barrington,NJ,shopping,1,2,0,0,0,0,0,0,39.87150532619224,-75.05079483471904,Barrington
+08007,Barrington,NJ,localservices,0,0,1,1,0,0,0,0,39.87122682628272,-75.0513390437138,Barrington
+08061,Mount Royal,NJ,restaurants,1,24,0,0,0,0,0,0,39.8099,-75.21124,Mount Royal
+08061,Mount Royal,NJ,shopping,0,0,0,0,0,0,0,0,39.8,-75.21,Mount Royal
+08061,Mount Royal,NJ,localservices,0,0,0,0,0,0,0,0,39.808685,-75.21348595,Mount Royal
+08066,Paulsboro,NJ,restaurants,5,52,6,111,0,0,0,0,39.82717275190556,-75.23718009935398,Paulsboro
+08066,Paulsboro,NJ,shopping,1,1,2,8,0,0,0,0,39.827688183333336,-75.23512473333334,Paulsboro
+08066,Paulsboro,NJ,localservices,0,0,0,0,0,0,0,0,39.8255533,-75.21851666666667,Paulsboro
+08073,Rancocas,NJ,restaurants,0,0,0,0,0,0,0,0,40.01,-74.87,Rancocas
+08073,Rancocas,NJ,shopping,0,0,0,0,0,0,0,0,40.01,-74.87,Rancocas
+08073,Rancocas,NJ,localservices,0,0,0,0,0,0,0,0,40.01064,-74.86735,Rancocas
+08080,Sewell,NJ,restaurants,15,311,27,1364,1,49,0,0,39.76034630541127,-75.10416898947044,Sewell
+08080,Sewell,NJ,shopping,3,6,13,72,4,22,0,0,39.75881288580968,-75.10403486346893,Sewell
+08080,Sewell,NJ,localservices,1,1,2,7,1,5,1,3,39.76281078666087,-75.11224830707008,Sewell
+08081,Sicklerville,NJ,restaurants,23,553,21,1202,0,0,0,0,39.73411001953399,-74.9992532531436,Sicklerville
+08081,Sicklerville,NJ,shopping,3,7,17,78,1,2,0,0,39.739487238025845,-74.9990993237971,Sicklerville
+08081,Sicklerville,NJ,localservices,1,3,0,0,0,0,0,0,39.733287150512396,-74.99054027499258,Sicklerville
+08105,Camden,NJ,restaurants,10,145,5,107,2,15,0,0,39.94838735272425,-75.08674056348268,Camden
+08105,Camden,NJ,shopping,1,1,1,1,0,0,0,0,39.946897682700566,-75.08933731017274,Camden
+08105,Camden,NJ,localservices,0,0,0,0,0,0,0,0,39.95160888102887,-75.09925645784706,Camden
+08812,Green Brook Township,NJ,restaurants,21,674,21,1371,0,0,0,0,40.59522525909528,-74.47422599150103,Dunellen
+08812,Green Brook Township,NJ,shopping,3,11,16,150,5,54,2,14,40.59505460714371,-74.48579382406871,Dunellen
+08812,Green Brook Township,NJ,localservices,1,8,1,3,0,0,0,0,40.59409874727335,-74.47642608847693,Dunellen
+08830,Iselin,NJ,restaurants,20,941,31,5459,3,166,0,0,40.56850135866767,-74.3195798764562,Iselin
+08830,Iselin,NJ,shopping,4,7,15,223,13,259,1,5,40.57088396255276,-74.32173515349935,Iselin
+08830,Iselin,NJ,localservices,0,0,1,31,0,0,0,0,40.56882298003734,-74.31612923420253,Iselin
+87013,Cuba,NM,restaurants,5,56,1,140,0,0,0,0,36.010502798108355,-106.962698934145,Cuba
+87013,Cuba,NM,shopping,0,0,0,0,0,0,0,0,36.02,-106.95,Cuba
+87013,Cuba,NM,localservices,0,0,0,0,0,0,0,0,36.01453,-106.96536,Cuba
+87021,Milan,NM,restaurants,5,272,2,66,0,0,0,0,35.174409700617,-107.89545449487814,Milan
+87021,Milan,NM,shopping,0,0,1,2,0,0,0,0,35.177985725491496,-107.8968183765425,Milan
+87021,Milan,NM,localservices,0,0,0,0,0,0,0,0,35.17056619192923,-107.89071356447232,Milan
+87036,Mountainair,NM,restaurants,1,10,1,14,0,0,0,0,34.5197746519495,-106.24300796543167,Mountainair
+87036,Mountainair,NM,shopping,0,0,0,0,0,0,0,0,34.52,-106.24,Mountainair
+87036,Mountainair,NM,localservices,0,0,0,0,0,0,0,0,34.52,-106.24,Mountainair
+87114,Albuquerque,NM,restaurants,35,1044,42,3227,0,0,0,0,35.19773438607534,-106.65652381825501,Albuquerque
+87114,Albuquerque,NM,shopping,11,98,40,414,17,74,1,3,35.19855301849561,-106.65692830613042,Albuquerque
+87114,Albuquerque,NM,localservices,2,25,0,0,2,6,1,18,35.19961378679192,-106.66348643682898,Albuquerque
+87701,Las Vegas,NM,restaurants,20,329,11,647,0,0,1,14,35.59946678605254,-105.22122566784928,Las Vegas
+87701,Las Vegas,NM,shopping,1,2,11,27,0,0,0,0,35.5966699021608,-105.22406676811937,Las Vegas
+87701,Las Vegas,NM,localservices,0,0,1,1,0,0,0,0,35.59743146112903,-105.22640342604251,Las Vegas
+87821,Datil,NM,restaurants,0,0,1,33,0,0,0,0,34.145207,-107.843776,Datil
+87821,Datil,NM,shopping,0,0,0,0,0,0,0,0,34.14,-107.84,Datil
+87821,Datil,NM,localservices,0,0,0,0,0,0,0,0,34.14,-107.84,Datil
+87936,Garfield,NM,restaurants,0,0,0,0,0,0,0,0,32.75,-107.26,Garfield
+87936,Garfield,NM,shopping,0,0,0,0,0,0,0,0,32.75,-107.26,Garfield
+87936,Garfield,NM,localservices,0,0,0,0,0,0,0,0,32.75,-107.26,Garfield
+87942,Williamsburg,NM,restaurants,0,0,0,0,0,0,0,0,33.06,-107.35,Williamsburg
+87942,Williamsburg,NM,shopping,0,0,0,0,0,0,0,0,33.06,-107.35,Williamsburg
+87942,Williamsburg,NM,localservices,0,0,0,0,0,0,0,0,33.06,-107.35,Williamsburg
+88318,Corona,NM,restaurants,1,10,0,0,0,0,0,0,34.25025,-105.59519,Corona
+88318,Corona,NM,shopping,0,0,0,0,0,0,0,0,34.24,-105.59,Corona
+88318,Corona,NM,localservices,0,0,0,0,0,0,0,0,34.24,-105.59,Corona
+88426,Logan,NM,restaurants,2,7,1,17,0,0,0,0,35.36512409204212,-103.41101452404351,Logan
+88426,Logan,NM,shopping,0,0,0,0,0,0,0,0,35.36,-103.44,Logan
+88426,Logan,NM,localservices,0,0,0,0,0,0,0,0,35.36,-103.44,Logan
+10035,New York,NY,restaurants,26,679,13,1168,0,0,0,0,40.80058942330929,-73.93924811167828,New York
+10035,New York,NY,shopping,11,78,15,102,0,0,1,1,40.80155982855118,-73.93848662267239,New York
+10035,New York,NY,localservices,2,12,2,22,0,0,0,0,40.801862661351926,-73.93868042935422,New York
+10170,New York,NY,restaurants,0,0,0,0,0,0,0,0,40.75,-73.98,New York
+10170,New York,NY,shopping,0,0,0,0,0,0,0,0,40.752546,-73.97544,New York
+10170,New York,NY,localservices,0,0,0,0,0,0,0,0,40.752696,-73.97586,New York
+10588,Shrub Oak,NY,restaurants,1,32,7,262,0,0,0,0,41.32990854526551,-73.82446118453012,Shrub Oak
+10588,Shrub Oak,NY,shopping,0,0,2,11,0,0,0,0,41.3285244157469,-73.83190951586914,Shrub Oak
+10588,Shrub Oak,NY,localservices,1,5,1,3,0,0,0,0,41.329157542016276,-73.82773818273063,Shrub Oak
+10709,Eastchester,NY,restaurants,3,93,10,1296,1,29,0,0,40.95536633753477,-73.81416547209685,Eastchester
+10709,Eastchester,NY,shopping,1,3,9,68,1,10,1,3,40.95499715946065,-73.8132247449422,Eastchester
+10709,Eastchester,NY,localservices,0,0,2,8,1,5,0,0,40.955352855316825,-73.81427032359346,Eastchester
+10917,Woodbury,NY,restaurants,11,157,12,777,0,0,0,0,41.320802707690234,-74.12455139071496,Central Valley
+10917,Woodbury,NY,shopping,3,5,24,765,30,184,13,47,41.316965804311515,-74.1261591348974,Central Valley
+10917,Woodbury,NY,localservices,0,0,0,0,0,0,0,0,41.321297464247984,-74.12454603247645,Central Valley
+10922,Fort Montgomery,NY,restaurants,0,0,2,195,0,0,0,0,41.3353350034551,-73.9831065586365,Fort Montgomery
+10922,Fort Montgomery,NY,shopping,0,0,0,0,0,0,0,0,41.33,-74.0,Fort Montgomery
+10922,Fort Montgomery,NY,localservices,0,0,0,0,0,0,0,0,41.33,-74.0,Fort Montgomery
+10956,New City,NY,restaurants,15,455,36,2156,1,40,0,0,41.142790618935244,-73.99130804796192,New City
+10956,New City,NY,shopping,2,9,9,81,2,13,1,27,41.14324072258138,-73.99168815226888,New City
+10956,New City,NY,localservices,3,4,2,11,0,0,0,0,41.144571866047755,-73.98925917959194,New City
+10962,Orangeburg,NY,restaurants,5,80,14,744,1,152,0,0,41.047288333271595,-73.94982469711051,Orangeburg
+10962,Orangeburg,NY,shopping,0,0,2,59,0,0,0,0,41.044522778385954,-73.9493108950542,Orangeburg
+10962,Orangeburg,NY,localservices,1,2,1,1,0,0,0,0,41.04887269254837,-73.94893144299448,Orangeburg
+10987,Tuxedo Park,NY,restaurants,3,64,3,355,0,0,0,0,41.19360860776286,-74.19261443195724,Tuxedo Park
+10987,Tuxedo Park,NY,shopping,0,0,1,1,0,0,0,0,41.208454424050636,-74.18599998935413,Tuxedo Park
+10987,Tuxedo Park,NY,localservices,0,0,0,0,0,0,0,0,41.217034999999996,-74.19314,Tuxedo Park
+11215,Brooklyn,NY,restaurants,36,4104,44,8508,2,193,0,0,40.6685033820253,-73.98461118731423,Brooklyn
+11215,Brooklyn,NY,shopping,10,254,46,1895,16,455,3,14,40.668205511732694,-73.98437512218113,Brooklyn
+11215,Brooklyn,NY,localservices,11,243,18,685,6,108,0,0,40.66788963941587,-73.98374851788668,Brooklyn
+11542,Glen Cove,NY,restaurants,25,686,27,1701,5,226,1,31,40.864352432787705,-73.62785287847902,Glen Cove
+11542,Glen Cove,NY,shopping,2,20,11,55,5,34,0,0,40.865612213023645,-73.6282131376197,Glen Cove
+11542,Glen Cove,NY,localservices,1,4,3,11,0,0,0,0,40.86389836835699,-73.63089316235518,Glen Cove
+11706,Bay Shore,NY,restaurants,12,268,29,3239,6,1196,0,0,40.7232180968771,-73.24161575524319,Bay Shore
+11706,Bay Shore,NY,shopping,3,17,17,149,10,97,1,2,40.72953419630158,-73.24371892697806,Bay Shore
+11706,Bay Shore,NY,localservices,1,5,2,36,1,2,0,0,40.732806862174876,-73.25107238143566,Bay Shore
+11959,Quogue,NY,restaurants,0,0,0,0,0,0,1,13,40.8166578412056,-72.608235552907,Quogue
+11959,Quogue,NY,shopping,0,0,2,19,0,0,0,0,40.8170775881586,-72.60825745499932,Quogue
+11959,Quogue,NY,localservices,0,0,0,0,0,0,0,0,40.823057500000004,-72.61022075,Quogue
+12065,Clifton Park,NY,restaurants,35,1198,53,3293,1,16,1,8,42.85866910961068,-73.77413297633358,Clifton Park
+12065,Clifton Park,NY,shopping,4,28,38,247,16,87,1,3,42.85731012441685,-73.77257733656552,Clifton Park
+12065,Clifton Park,NY,localservices,2,11,4,25,2,6,0,0,42.857188187552964,-73.77726866192816,Clifton Park
+12070,Fort Johnson,NY,restaurants,0,0,0,0,0,0,0,0,42.99,-74.26,Fort Johnson
+12070,Fort Johnson,NY,shopping,0,0,0,0,0,0,0,0,42.979766,-74.276816,Fort Johnson
+12070,Fort Johnson,NY,localservices,0,0,0,0,0,0,0,0,42.95684,-74.23309,Fort Johnson
+12095,Johnstown,NY,restaurants,9,104,11,167,0,0,0,0,43.01233781661367,-74.36569128474963,Johnstown
+12095,Johnstown,NY,shopping,3,10,1,6,2,11,0,0,43.00941856178922,-74.36295081962861,Johnstown
+12095,Johnstown,NY,localservices,0,0,1,1,0,0,0,0,43.012238079971276,-74.35703683379349,Johnstown
+12108,Lake Pleasant,NY,restaurants,0,0,0,0,0,0,0,0,43.461098,-74.4385691,Lake Pleasant
+12108,Lake Pleasant,NY,shopping,0,0,0,0,0,0,0,0,43.55,-74.43,Lake Pleasant
+12108,Lake Pleasant,NY,localservices,0,0,0,0,0,0,0,0,43.55,-74.43,Lake Pleasant
+12122,Middleburgh,NY,restaurants,4,27,5,90,0,0,0,0,42.600059855970684,-74.33463253735543,Middleburgh
+12122,Middleburgh,NY,shopping,0,0,2,10,0,0,0,0,42.59673694257185,-74.3455647529793,Middleburgh
+12122,Middleburgh,NY,localservices,0,0,0,0,0,0,0,0,42.59,-74.32,Middleburgh
+12136,Old Chatham,NY,restaurants,0,0,2,60,0,0,0,0,42.454761500000004,-73.55825899999999,Old Chatham
+12136,Old Chatham,NY,shopping,0,0,0,0,0,0,0,0,42.42,-73.56,Old Chatham
+12136,Old Chatham,NY,localservices,0,0,0,0,0,0,0,0,42.42,-73.56,Old Chatham
+12154,Schaghticoke,NY,restaurants,1,9,4,72,0,0,0,0,42.91233941428572,-73.58242399999999,Schaghticoke
+12154,Schaghticoke,NY,shopping,0,0,1,1,0,0,0,0,42.8993675,-73.616834,Schaghticoke
+12154,Schaghticoke,NY,localservices,0,0,0,0,0,0,0,0,42.912451,-73.673036,Schaghticoke
+12418,Cornwallville,NY,restaurants,0,0,0,0,0,0,0,0,42.36,-74.17,Cornwallville
+12418,Cornwallville,NY,shopping,0,0,0,0,0,0,0,0,42.3746490478516,-74.1229934692383,Cornwallville
+12418,Cornwallville,NY,localservices,0,0,0,0,0,0,0,0,42.36,-74.17,Cornwallville
+12469,Preston Hollow,NY,restaurants,0,0,0,0,0,0,0,0,42.44,-74.2,Preston Hollow
+12469,Preston Hollow,NY,shopping,0,0,0,0,0,0,0,0,42.44,-74.2,Preston Hollow
+12469,Preston Hollow,NY,localservices,0,0,0,0,0,0,0,0,42.44,-74.2,Preston Hollow
+12501,Amenia,NY,restaurants,1,34,3,84,2,148,0,0,41.85415207449004,-73.55987598514027,Amenia
+12501,Amenia,NY,shopping,1,1,0,0,0,0,0,0,41.85234033333333,-73.55560366666667,Amenia
+12501,Amenia,NY,localservices,0,0,0,0,0,0,0,0,41.84,-73.55,Amenia
+12502,Ancram,NY,restaurants,2,85,1,21,0,0,0,0,42.12061966666666,-73.71852966666667,Ancram
+12502,Ancram,NY,shopping,0,0,0,0,0,0,0,0,42.05,-73.63,Ancram
+12502,Ancram,NY,localservices,0,0,0,0,0,0,0,0,42.05,-73.63,Ancram
+12531,Holmes,NY,restaurants,1,11,0,0,0,0,0,0,41.51881,-73.69601,Holmes
+12531,Holmes,NY,shopping,0,0,0,0,0,0,0,0,41.52206,-73.6885,Holmes
+12531,Holmes,NY,localservices,0,0,0,0,0,0,0,0,41.5277328491211,-73.646484375,Holmes
+12563,Patterson,NY,restaurants,3,30,9,499,0,0,0,0,41.500319282053674,-73.58429969370242,Patterson
+12563,Patterson,NY,shopping,0,0,5,18,1,3,0,0,41.50931707272727,-73.58536959090908,Patterson
+12563,Patterson,NY,localservices,0,0,0,0,0,0,0,0,41.499750686681715,-73.58835256,Patterson
+12592,Wassaic,NY,restaurants,0,0,0,0,0,0,0,0,41.78,-73.54,Wassaic
+12592,Wassaic,NY,shopping,0,0,0,0,0,0,0,0,41.78,-73.54,Wassaic
+12592,Wassaic,NY,localservices,0,0,0,0,0,0,0,0,41.78,-73.54,Wassaic
+12732,Eldred,NY,restaurants,0,0,2,15,0,0,0,0,41.52729116336255,-74.88541074174755,Eldred
+12732,Eldred,NY,shopping,0,0,0,0,0,0,0,0,41.52,-74.88,Eldred
+12732,Eldred,NY,localservices,0,0,0,0,0,0,0,0,41.52,-74.88,Eldred
+12834,Greenwich,NY,restaurants,8,72,1,6,1,43,0,0,43.10030970701535,-73.50538546696822,Greenwich
+12834,Greenwich,NY,shopping,1,5,4,7,0,0,1,3,43.07946529885726,-73.5084508754863,Greenwich
+12834,Greenwich,NY,localservices,0,0,0,0,0,0,0,0,43.05619308,-73.52219268000002,Greenwich
+12843,Johnsburg,NY,restaurants,0,0,0,0,0,0,0,0,43.57,-73.97,Johnsburg
+12843,Johnsburg,NY,shopping,0,0,0,0,0,0,0,0,43.57,-73.97,Johnsburg
+12843,Johnsburg,NY,localservices,0,0,0,0,0,0,0,0,43.57,-73.97,Johnsburg
+12917,Burke,NY,restaurants,1,5,0,0,0,0,0,0,44.921137,-74.1453515,Burke
+12917,Burke,NY,shopping,0,0,0,0,0,0,0,0,44.91971,-74.17228,Burke
+12917,Burke,NY,localservices,0,0,0,0,0,0,0,0,44.917350769043,-74.1942520141602,Burke
+13029,Brewerton,NY,restaurants,4,71,1,12,0,0,0,0,43.234179694436996,-76.13544388419652,Brewerton
+13029,Brewerton,NY,shopping,1,13,1,2,0,0,0,0,43.22485706628906,-76.13624810988281,Brewerton
+13029,Brewerton,NY,localservices,0,0,0,0,0,0,0,0,43.2377700805664,-76.140510559082,Brewerton
+13034,Cayuga,NY,restaurants,0,0,0,0,0,0,0,0,42.91,-76.72,Cayuga
+13034,Cayuga,NY,shopping,0,0,0,0,0,0,0,0,42.91,-76.72,Cayuga
+13034,Cayuga,NY,localservices,0,0,0,0,0,0,0,0,42.91,-76.72,Cayuga
+13061,Erieville,NY,restaurants,1,25,0,0,0,0,0,0,42.876438125968,-75.7594086974859,Erieville
+13061,Erieville,NY,shopping,0,0,1,2,0,0,0,0,42.89823,-75.77177,Erieville
+13061,Erieville,NY,localservices,0,0,0,0,0,0,0,0,42.85204,-75.75546,Erieville
+13308,Blossvale,NY,restaurants,0,0,0,0,0,0,0,0,43.27,-75.64,Blossvale
+13308,Blossvale,NY,shopping,0,0,0,0,0,0,0,0,43.27,-75.64,Blossvale
+13308,Blossvale,NY,localservices,0,0,0,0,0,0,0,0,43.27,-75.64,Blossvale
+13365,Little Falls,NY,restaurants,8,67,4,81,3,60,0,0,43.03605159299883,-74.84861787337529,Little Falls
+13365,Little Falls,NY,shopping,0,0,3,21,1,1,0,0,43.03900571915215,-74.85525293751552,Little Falls
+13365,Little Falls,NY,localservices,0,0,1,3,0,0,0,0,43.04314425,-74.85873265000001,Little Falls
+13603,Watertown,NY,restaurants,0,0,0,0,0,0,0,0,44.0447643013931,-75.806979757456,Watertown
+13603,Watertown,NY,shopping,0,0,0,0,0,0,0,0,44.0436164256689,-75.807390150118,Watertown
+13603,Watertown,NY,localservices,0,0,0,0,0,0,0,0,44.0340697,-75.8229638,Watertown
+13673,Philadelphia,NY,restaurants,3,19,1,13,0,0,0,0,44.146143,-75.71359975,Philadelphia
+13673,Philadelphia,NY,shopping,0,0,0,0,0,0,0,0,44.15024,-75.70847,Philadelphia
+13673,Philadelphia,NY,localservices,0,0,0,0,0,0,0,0,44.14890273333333,-75.71217843333334,Philadelphia
+13678,Raymondville,NY,restaurants,0,0,0,0,0,0,0,0,44.81,-74.99,Raymondville
+13678,Raymondville,NY,shopping,0,0,0,0,0,0,0,0,44.81,-74.99,Raymondville
+13678,Raymondville,NY,localservices,0,0,0,0,0,0,0,0,44.81,-74.99,Raymondville
+13730,Afton,NY,restaurants,1,3,3,68,0,0,0,0,42.225537487384145,-75.52683247745443,Afton
+13730,Afton,NY,shopping,0,0,0,0,0,0,0,0,42.22,-75.52,Afton
+13730,Afton,NY,localservices,0,0,0,0,0,0,0,0,42.22,-75.52,Afton
+13780,Guilford,NY,restaurants,0,0,0,0,0,0,0,0,42.4,-75.49,Guilford
+13780,Guilford,NY,shopping,0,0,0,0,0,0,0,0,42.4,-75.49,Guilford
+13780,Guilford,NY,localservices,0,0,0,0,0,0,0,0,42.4,-75.49,Guilford
+13809,Mount Upton,NY,restaurants,0,0,1,6,0,0,0,0,42.437649650634754,-75.3864610168457,Mount Upton
+13809,Mount Upton,NY,shopping,0,0,0,0,0,0,0,0,42.42,-75.38,Mount Upton
+13809,Mount Upton,NY,localservices,0,0,0,0,0,0,0,0,42.42,-75.38,Mount Upton
+13811,Newark Valley,NY,restaurants,0,0,1,7,0,0,0,0,42.220416025000006,-76.185753825,Newark Valley
+13811,Newark Valley,NY,shopping,0,0,1,1,0,0,0,0,42.22449,-76.18434,Newark Valley
+13811,Newark Valley,NY,localservices,0,0,0,0,0,0,0,0,42.217960357666,-76.1870880126953,Newark Valley
+13850,Vestal,NY,restaurants,20,459,23,816,1,35,1,8,42.09207137511714,-76.01026915971441,Vestal
+13850,Vestal,NY,shopping,10,54,21,83,6,31,1,8,42.09321310929846,-76.01535816169562,Vestal
+13850,Vestal,NY,localservices,0,0,0,0,0,0,0,0,42.089237624854164,-76.02447932828703,Vestal
+13862,Whitney Point,NY,restaurants,8,65,1,104,0,0,0,0,42.33269985145153,-75.97027602571023,Whitney Point
+13862,Whitney Point,NY,shopping,2,3,2,5,0,0,0,0,42.32783333745258,-75.96182532767143,Whitney Point
+13862,Whitney Point,NY,localservices,0,0,0,0,0,0,0,0,42.3278084,-75.9704971,Whitney Point
+13901,Binghamton,NY,restaurants,24,598,23,2048,1,137,1,5,42.10717511724192,-75.90844445544838,Binghamton
+13901,Binghamton,NY,shopping,4,12,9,39,1,3,0,0,42.119073290425824,-75.90563642882415,Binghamton
+13901,Binghamton,NY,localservices,0,0,1,4,0,0,0,0,42.131091576125975,-75.89738521271578,Binghamton
+14134,Sardinia,NY,restaurants,0,0,0,0,0,0,0,0,42.53,-78.52,Sardinia
+14134,Sardinia,NY,shopping,0,0,0,0,0,0,0,0,42.53,-78.52,Sardinia
+14134,Sardinia,NY,localservices,0,0,0,0,0,0,0,0,42.53,-78.52,Sardinia
+14167,Varysburg,NY,restaurants,0,0,2,11,0,0,0,0,42.754165,-78.33671000000001,Varysburg
+14167,Varysburg,NY,shopping,0,0,0,0,0,0,0,0,42.73,-78.31,Varysburg
+14167,Varysburg,NY,localservices,0,0,0,0,0,0,0,0,42.73,-78.31,Varysburg
+14170,West Falls,NY,restaurants,0,0,0,0,1,13,0,0,42.7177145,-78.68227,West Falls
+14170,West Falls,NY,shopping,0,0,0,0,0,0,0,0,42.7,-78.67,West Falls
+14170,West Falls,NY,localservices,0,0,0,0,0,0,0,0,42.7,-78.67,West Falls
+14203,Buffalo,NY,restaurants,18,486,17,2300,0,0,0,0,42.88760957760418,-78.87254399881508,Buffalo
+14203,Buffalo,NY,shopping,4,10,9,63,1,8,0,0,42.887271914295226,-78.87304060400544,Buffalo
+14203,Buffalo,NY,localservices,0,0,1,2,0,0,0,0,42.88991719526024,-78.87160507372066,Buffalo
+14304,Niagara Falls,NY,restaurants,31,549,36,2298,0,0,0,0,43.09244577729621,-78.9697562714888,Niagara Falls
+14304,Niagara Falls,NY,shopping,7,50,41,127,7,22,0,0,43.096253018869874,-78.97415864357268,Niagara Falls
+14304,Niagara Falls,NY,localservices,2,10,0,0,0,0,0,0,43.093473115460874,-78.97178316301553,Niagara Falls
+14454,Geneseo,NY,restaurants,12,188,9,288,0,0,0,0,42.79682877270694,-77.80130954844836,Geneseo
+14454,Geneseo,NY,shopping,2,6,4,15,1,2,1,2,42.797983980225304,-77.79969825878173,Geneseo
+14454,Geneseo,NY,localservices,0,0,1,5,1,2,0,0,42.799703439355454,-77.8221913386719,Geneseo
+14710,Ashville,NY,restaurants,0,0,1,19,0,0,0,0,42.107238,-79.373257,Ashville
+14710,Ashville,NY,shopping,0,0,0,0,0,0,0,0,42.11,-79.42,Ashville
+14710,Ashville,NY,localservices,0,0,0,0,0,0,0,0,42.0945763,-79.3752243,Ashville
+14715,Bolivar,NY,restaurants,0,0,0,0,0,0,0,0,42.06778,-78.1678699,Bolivar
+14715,Bolivar,NY,shopping,0,0,0,0,0,0,0,0,42.06,-78.17,Bolivar
+14715,Bolivar,NY,localservices,0,0,0,0,0,0,0,0,42.06,-78.17,Bolivar
+14847,Interlaken,NY,restaurants,2,117,2,67,0,0,0,0,42.618693324999995,-76.68916815,Interlaken
+14847,Interlaken,NY,shopping,0,0,0,0,0,0,0,0,42.610492349285025,-76.71271298048458,Interlaken
+14847,Interlaken,NY,localservices,0,0,0,0,0,0,0,0,42.61,-76.72,Interlaken
+14903,Elmira,NY,restaurants,5,64,9,231,0,0,0,0,42.1441109792238,-76.85263054172422,Elmira
+14903,Elmira,NY,shopping,0,0,9,24,4,9,1,5,42.146435984896435,-76.86449405270642,Elmira
+14903,Elmira,NY,localservices,0,0,0,0,0,0,0,0,42.132979246464984,-76.83729692066196,Elmira
+27018,East Bend,NC,restaurants,0,0,1,38,0,0,0,0,36.21445813443042,-80.50158588960109,East Bend
+27018,East Bend,NC,shopping,0,0,0,0,0,0,0,0,36.21,-80.5,East Bend
+27018,East Bend,NC,localservices,0,0,0,0,0,0,0,0,36.21,-80.5,East Bend
+27258,Haw River,NC,restaurants,4,136,3,21,0,0,0,0,36.08877427395353,-79.35619193804388,Haw River
+27258,Haw River,NC,shopping,0,0,0,0,0,0,0,0,36.05455485,-79.33870365000001,Haw River
+27258,Haw River,NC,localservices,0,0,0,0,0,0,0,0,36.033836,-79.352387,Haw River
+27560,Morrisville,NC,restaurants,31,2331,32,5225,1,155,0,0,35.83786237401071,-78.83689731685442,Morrisville
+27560,Morrisville,NC,shopping,6,95,30,321,9,34,2,11,35.8277243700005,-78.82214706973939,Morrisville
+27560,Morrisville,NC,localservices,2,42,4,23,2,14,0,0,35.83874931909456,-78.82718936301092,Morrisville
+27610,Raleigh,NC,restaurants,37,705,12,542,0,0,0,0,35.782677085088984,-78.58257547401426,Raleigh
+27610,Raleigh,NC,shopping,11,44,17,70,0,0,0,0,35.7812938924499,-78.57841343784378,Raleigh
+27610,Raleigh,NC,localservices,1,7,1,3,0,0,0,0,35.778604145555526,-78.58867781930122,Raleigh
+27705,Durham,NC,restaurants,44,2194,33,4736,2,99,0,0,36.01969322932215,-78.94044918810873,Durham
+27705,Durham,NC,shopping,15,79,37,475,7,66,2,12,36.02232732934022,-78.93052404916895,Durham
+27705,Durham,NC,localservices,0,0,7,140,2,35,1,3,36.01820889505894,-78.9441961485807,Durham
+27830,Fremont,NC,restaurants,2,4,0,0,0,0,0,0,35.542508999999995,-77.97637766666666,Fremont
+27830,Fremont,NC,shopping,1,1,0,0,0,0,0,0,35.544347,-77.973857,Fremont
+27830,Fremont,NC,localservices,1,1,0,0,0,0,0,0,35.55358233333333,-77.94355153333333,Fremont
+27874,Scotland Neck,NC,restaurants,1,3,1,11,0,0,0,0,36.12525473435874,-77.42331674863279,Scotland Neck
+27874,Scotland Neck,NC,shopping,0,0,0,0,0,0,0,0,36.12811884033205,-77.4222251550293,Scotland Neck
+27874,Scotland Neck,NC,localservices,0,0,0,0,0,0,0,0,36.13,-77.42,Scotland Neck
+27922,Cofield,NC,restaurants,0,0,0,0,0,0,0,0,36.35,-76.9,Cofield
+27922,Cofield,NC,shopping,0,0,0,0,0,0,0,0,36.35,-76.9,Cofield
+27922,Cofield,NC,localservices,0,0,0,0,0,0,0,0,36.35,-76.9,Cofield
+27929,Currituck,NC,restaurants,1,4,1,103,0,0,0,0,36.449935621442904,-76.01802603689009,Currituck
+27929,Currituck,NC,shopping,0,0,0,0,0,0,0,0,36.44,-76.01,Currituck
+27929,Currituck,NC,localservices,0,0,0,0,0,0,0,0,36.415825,-76.013837,Currituck
+27937,Gates,NC,restaurants,1,11,0,0,0,0,0,0,36.48499580769774,-76.74942608544845,Gates
+27937,Gates,NC,shopping,0,0,0,0,0,0,0,0,36.497704333071255,-76.7686716905451,Gates
+27937,Gates,NC,localservices,0,0,0,0,0,0,0,0,36.5,-76.76,Gates
+28174,Wingate,NC,restaurants,4,44,0,0,0,0,0,0,34.982698177424915,-80.45164897141028,Wingate
+28174,Wingate,NC,shopping,0,0,0,0,0,0,0,0,34.982368,-80.465682,Wingate
+28174,Wingate,NC,localservices,0,0,0,0,0,0,0,0,34.963555673014326,-80.44438553645834,Wingate
+28425,Burgaw,NC,restaurants,11,70,3,74,0,0,0,0,34.558091003048055,-77.91436322333043,Burgaw
+28425,Burgaw,NC,shopping,1,1,1,3,0,0,0,0,34.56963125,-77.897171475,Burgaw
+28425,Burgaw,NC,localservices,1,1,0,0,0,0,0,0,34.5459,-77.91957,Burgaw
+28433,Clarkton,NC,restaurants,0,0,0,0,0,0,0,0,34.48,-78.65,Clarkton
+28433,Clarkton,NC,shopping,0,0,0,0,0,0,0,0,34.48,-78.65,Clarkton
+28433,Clarkton,NC,localservices,0,0,0,0,0,0,0,0,34.48,-78.65,Clarkton
+28457,Rocky Point,NC,restaurants,4,96,0,0,0,0,1,2,34.42869572614136,-77.88011456245118,Rocky Point
+28457,Rocky Point,NC,shopping,0,0,0,0,0,0,0,0,34.43,-77.88,Rocky Point
+28457,Rocky Point,NC,localservices,0,0,0,0,0,0,0,0,34.410624,-77.890416,Rocky Point
+28643,Lansing,NC,restaurants,1,3,1,50,0,0,0,0,36.498188299999995,-81.51037975,Lansing
+28643,Lansing,NC,shopping,0,0,0,0,0,0,0,0,36.47704,-81.48877,Lansing
+28643,Lansing,NC,localservices,0,0,0,0,0,0,0,0,36.47659,-81.47468,Lansing
+58012,Casselton,ND,restaurants,0,0,2,9,0,0,0,0,46.89283881108397,-97.21196748470054,Casselton
+58012,Casselton,ND,shopping,0,0,0,0,0,0,0,0,46.9007720947266,-97.2107543945312,Casselton
+58012,Casselton,ND,localservices,0,0,0,0,0,0,0,0,46.9,-97.21,Casselton
+58052,Leonard,ND,restaurants,0,0,0,0,0,0,0,0,46.65,-97.24,Leonard
+58052,Leonard,ND,shopping,0,0,0,0,0,0,0,0,46.65,-97.24,Leonard
+58052,Leonard,ND,localservices,0,0,0,0,0,0,0,0,46.65,-97.24,Leonard
+58053,Lidgerwood,ND,restaurants,0,0,0,0,0,0,0,0,46.07,-97.14,Lidgerwood
+58053,Lidgerwood,ND,shopping,0,0,0,0,0,0,0,0,46.07,-97.14,Lidgerwood
+58053,Lidgerwood,ND,localservices,0,0,0,0,0,0,0,0,46.07,-97.14,Lidgerwood
+58059,Mapleton,ND,restaurants,0,0,0,0,0,0,0,0,46.8834533691406,-97.0518569946289,Mapleton
+58059,Mapleton,ND,shopping,0,0,0,0,0,0,0,0,46.89,-97.05,Mapleton
+58059,Mapleton,ND,localservices,0,0,0,0,0,0,0,0,46.89,-97.05,Mapleton
+58060,Milnor,ND,restaurants,0,0,0,0,0,0,0,0,46.26,-97.45,Milnor
+58060,Milnor,ND,shopping,0,0,0,0,0,0,0,0,46.2583392042841,-97.4548709750064,Milnor
+58060,Milnor,ND,localservices,0,0,0,0,0,0,0,0,46.26,-97.45,Milnor
+58061,Mooreton,ND,restaurants,0,0,0,0,0,0,0,0,46.26823,-96.87564,Mooreton
+58061,Mooreton,ND,shopping,0,0,0,0,0,0,0,0,46.26,-96.87,Mooreton
+58061,Mooreton,ND,localservices,0,0,0,0,0,0,0,0,46.26,-96.87,Mooreton
+58301,Devils Lake,ND,restaurants,9,62,7,92,0,0,0,0,48.108939839384675,-98.87338097698796,Devils Lake
+58301,Devils Lake,ND,shopping,1,1,1,3,0,0,0,0,48.1061171357065,-98.86328871064883,Devils Lake
+58301,Devils Lake,ND,localservices,0,0,0,0,0,0,0,0,48.11095,-98.86472,Devils Lake
+58384,Willow City,ND,restaurants,0,0,0,0,0,0,0,0,48.6,-100.29,Willow City
+58384,Willow City,ND,shopping,0,0,0,0,0,0,0,0,48.6,-100.29,Willow City
+58384,Willow City,ND,localservices,0,0,0,0,0,0,0,0,48.6,-100.29,Willow City
+58413,Ashley,ND,restaurants,0,0,0,0,0,0,0,0,46.03,-99.37,Ashley
+58413,Ashley,ND,shopping,0,0,0,0,0,0,0,0,46.03,-99.37,Ashley
+58413,Ashley,ND,localservices,0,0,0,0,0,0,0,0,46.03,-99.37,Ashley
+58563,New Salem,ND,restaurants,2,7,0,0,0,0,0,0,46.859060137757595,-101.41708847047201,New Salem
+58563,New Salem,ND,shopping,0,0,0,0,0,0,0,0,46.84,-101.41,New Salem
+58563,New Salem,ND,localservices,0,0,0,0,0,0,0,0,46.84,-101.41,New Salem
+58725,Carpio,ND,restaurants,0,0,0,0,0,0,0,0,48.44,-101.71,Carpio
+58725,Carpio,ND,shopping,0,0,0,0,0,0,0,0,48.44,-101.71,Carpio
+58725,Carpio,ND,localservices,0,0,0,0,0,0,0,0,48.4425171,-101.7146063,Carpio
+58843,Epping,ND,restaurants,0,0,0,0,0,0,0,0,48.28,-103.35,Epping
+58843,Epping,ND,shopping,0,0,0,0,0,0,0,0,48.28,-103.35,Epping
+58843,Epping,ND,localservices,0,0,0,0,0,0,0,0,48.28,-103.35,Epping
+58845,Grenora,ND,restaurants,0,0,0,0,0,0,0,0,48.61756,-103.93736,Grenora
+58845,Grenora,ND,shopping,0,0,0,0,0,0,0,0,48.61,-103.93,Grenora
+58845,Grenora,ND,localservices,0,0,0,0,0,0,0,0,48.61,-103.93,Grenora
+43056,Heath,OH,restaurants,16,189,19,476,0,0,1,4,40.02956454218962,-82.44175323378771,Heath
+43056,Heath,OH,shopping,2,7,17,46,5,12,0,0,40.02830889853385,-82.43627486535048,Heath
+43056,Heath,OH,localservices,0,0,1,5,0,0,0,0,40.03152601747006,-82.41963959795929,Heath
+43080,Utica,OH,restaurants,2,14,1,25,0,0,0,0,40.2325486215071,-82.45228587494942,Utica
+43080,Utica,OH,shopping,0,0,0,0,0,0,0,0,40.23,-82.44,Utica
+43080,Utica,OH,localservices,0,0,0,0,0,0,0,0,40.23378099999999,-82.454005,Utica
+43204,Columbus,OH,restaurants,21,386,3,73,0,0,0,0,39.95612254898285,-83.08457766659876,Columbus
+43204,Columbus,OH,shopping,3,25,5,57,2,3,0,0,39.960365137945104,-83.08631665720819,Columbus
+43204,Columbus,OH,localservices,0,0,2,10,0,0,1,3,39.963277599575825,-83.08137540989831,Columbus
+43217,Columbus,OH,restaurants,0,0,0,0,0,0,0,0,39.82,-82.92,Columbus
+43217,Columbus,OH,shopping,0,0,0,0,0,0,0,0,39.82,-82.92,Columbus
+43217,Columbus,OH,localservices,0,0,0,0,0,0,0,0,39.82,-82.92,Columbus
+43222,Columbus,OH,restaurants,10,255,0,0,0,0,0,0,39.95777533486119,-83.0345445974071,Columbus
+43222,Columbus,OH,shopping,0,0,1,5,0,0,0,0,39.9587694,-83.03758736,Columbus
+43222,Columbus,OH,localservices,1,3,1,5,0,0,0,0,39.95887120266278,-83.03359097861471,Columbus
+43447,Millbury,OH,restaurants,0,0,0,0,0,0,0,0,41.55880495,-83.44456500000001,Millbury
+43447,Millbury,OH,shopping,0,0,0,0,0,0,0,0,41.588847,-83.410487,Millbury
+43447,Millbury,OH,localservices,0,0,0,0,0,0,0,0,41.56,-83.42,Millbury
+43607,Toledo,OH,restaurants,13,268,1,55,0,0,0,0,41.652238085761915,-83.62131324232881,Toledo
+43607,Toledo,OH,shopping,1,1,2,3,0,0,0,0,41.64991167716675,-83.61772488065185,Toledo
+43607,Toledo,OH,localservices,0,0,1,1,0,0,0,0,41.645428557128895,-83.6125221447754,Toledo
+43758,Malta,OH,restaurants,0,0,0,0,0,0,0,0,39.6483612060547,-81.859260559082,Malta
+43758,Malta,OH,shopping,0,0,0,0,0,0,0,0,39.626567,-81.913675,Malta
+43758,Malta,OH,localservices,0,0,0,0,0,0,0,0,39.63,-81.95,Malta
+43945,Salineville,OH,restaurants,1,2,0,0,0,0,0,0,40.624746,-80.827047,Salineville
+43945,Salineville,OH,shopping,0,0,0,0,0,0,0,0,40.6238204240799,-80.8321143686771,Salineville
+43945,Salineville,OH,localservices,0,0,0,0,0,0,0,0,40.62,-80.83,Salineville
+44054,Sheffield Lake,OH,restaurants,7,111,3,136,0,0,0,0,41.45348668026818,-82.08724430655741,Sheffield Lake
+44054,Sheffield Lake,OH,shopping,1,2,1,1,2,21,0,0,41.4604915438767,-82.09935046848476,Sheffield Lake
+44054,Sheffield Lake,OH,localservices,0,0,0,0,0,0,0,0,41.45464825,-82.094378,Sheffield Lake
+44149,Strongsville,OH,restaurants,6,147,2,34,0,0,0,0,41.31279066933624,-81.85708153567556,Strongsville
+44149,Strongsville,OH,shopping,0,0,4,14,0,0,0,0,41.31858050464538,-81.85960640907787,Strongsville
+44149,Strongsville,OH,localservices,1,4,0,0,0,0,0,0,41.32956229942452,-81.84233522758093,Strongsville
+44333,Fairlawn,OH,restaurants,24,534,40,2773,4,292,0,0,41.13368038519558,-81.62867887945858,Akron
+44333,Fairlawn,OH,shopping,8,35,30,192,11,52,4,57,41.13353256214614,-81.62500540773928,Akron
+44333,Fairlawn,OH,localservices,2,14,4,21,0,0,3,47,41.13586478330173,-81.6278732269491,Akron
+44514,Poland,OH,restaurants,13,170,10,348,1,20,0,0,41.01823632838629,-80.61763789037792,Youngstown
+44514,Poland,OH,shopping,4,19,3,6,3,8,0,0,41.020930556969695,-80.62366262609596,Youngstown
+44514,Poland,OH,localservices,0,0,0,0,0,0,0,0,41.00153133333333,-80.610978,Youngstown
+44641,Louisville,OH,restaurants,3,19,0,0,0,0,0,0,40.842887938080196,-81.26531936905445,Louisville
+44641,Louisville,OH,shopping,0,0,2,4,0,0,0,0,40.840110494826924,-81.26549231712828,Louisville
+44641,Louisville,OH,localservices,0,0,1,2,0,0,0,0,40.84761961452637,-81.26624216638591,Louisville
+44805,Ashland,OH,restaurants,24,295,15,251,0,0,0,0,40.85824025128542,-82.30784463651732,Ashland
+44805,Ashland,OH,shopping,4,8,6,9,2,21,1,2,40.86355963687257,-82.30341966717866,Ashland
+44805,Ashland,OH,localservices,0,0,1,3,0,0,0,0,40.864157447015124,-82.311761091903,Ashland
+44818,Bloomville,OH,restaurants,1,3,0,0,0,0,0,0,41.066419591906154,-83.0152385234833,Bloomville
+44818,Bloomville,OH,shopping,0,0,0,0,0,0,0,0,40.9360504150391,-82.9348754882812,Bloomville
+44818,Bloomville,OH,localservices,0,0,0,0,0,0,0,0,41.05,-83.01,Bloomville
+44866,Polk,OH,restaurants,0,0,0,0,0,0,0,0,40.94,-82.21,Polk
+44866,Polk,OH,shopping,0,0,0,0,0,0,0,0,40.8583682030439,-82.1551334112883,Polk
+44866,Polk,OH,localservices,0,0,0,0,0,0,0,0,40.94,-82.21,Polk
+45002,Cleves,OH,restaurants,6,97,3,148,0,0,0,0,39.18362606646197,-84.73881566150781,Cleves
+45002,Cleves,OH,shopping,0,0,1,3,0,0,0,0,39.161833290452,-84.74929939903515,Cleves
+45002,Cleves,OH,localservices,0,0,0,0,0,0,0,0,39.20752317712403,-84.72321759204101,Cleves
+45118,Fayetteville,OH,restaurants,1,3,0,0,0,0,0,0,39.1826700746252,-83.9299290219025,Fayetteville
+45118,Fayetteville,OH,shopping,0,0,0,0,0,0,0,0,39.2047348022461,-83.9693069458008,Fayetteville
+45118,Fayetteville,OH,localservices,0,0,0,0,0,0,0,0,39.18,-83.93,Fayetteville
+45162,Pleasant Plain,OH,restaurants,1,33,0,0,0,0,0,0,39.2771912,-84.1140594,Pleasant Plain
+45162,Pleasant Plain,OH,shopping,0,0,0,0,0,0,0,0,39.27,-84.1,Pleasant Plain
+45162,Pleasant Plain,OH,localservices,0,0,0,0,0,0,0,0,39.27,-84.1,Pleasant Plain
+45223,Cincinnati,OH,restaurants,12,704,10,1605,0,0,0,0,39.1612092630167,-84.54027946132007,Cincinnati
+45223,Cincinnati,OH,shopping,4,65,10,210,4,12,0,0,39.16192542193004,-84.5412529841552,Cincinnati
+45223,Cincinnati,OH,localservices,1,4,1,23,0,0,0,0,39.1635571712,-84.54048837906743,Cincinnati
+45224,Cincinnati,OH,restaurants,8,144,4,250,0,0,0,0,39.2055381478214,-84.53965925189107,Cincinnati
+45224,Cincinnati,OH,shopping,1,2,2,11,2,30,2,11,39.200526993997855,-84.54243557696564,Cincinnati
+45224,Cincinnati,OH,localservices,0,0,1,4,0,0,1,4,39.20592071032587,-84.54050955439297,Cincinnati
+45378,Verona,OH,restaurants,0,0,1,8,0,0,0,0,39.90347,-84.48798,Verona
+45378,Verona,OH,shopping,0,0,0,0,0,0,0,0,39.9,-84.49,Verona
+45378,Verona,OH,localservices,0,0,0,0,0,0,0,0,39.9,-84.49,Verona
+45382,West Manchester,OH,restaurants,0,0,0,0,0,0,0,0,39.9,-84.62,West Manchester
+45382,West Manchester,OH,shopping,0,0,0,0,0,0,0,0,39.9,-84.62,West Manchester
+45382,West Manchester,OH,localservices,0,0,0,0,0,0,0,0,39.9,-84.62,West Manchester
+45385,Xenia,OH,restaurants,18,244,7,220,0,0,0,0,39.68697683851171,-83.93980129562314,Xenia
+45385,Xenia,OH,shopping,2,16,4,27,1,4,0,0,39.69025648706714,-83.9405436004105,Xenia
+45385,Xenia,OH,localservices,1,3,1,13,0,0,0,0,39.68281520967897,-83.941641669226,Xenia
+45417,Dayton,OH,restaurants,3,8,1,4,0,0,0,0,39.747049514982876,-84.26598199766397,Dayton
+45417,Dayton,OH,shopping,0,0,0,0,0,0,0,0,39.74,-84.29,Dayton
+45417,Dayton,OH,localservices,0,0,0,0,0,0,0,0,39.73692400419064,-84.2608590556772,Dayton
+45628,Frankfort,OH,restaurants,0,0,0,0,0,0,0,0,39.41809,-83.17183,Frankfort
+45628,Frankfort,OH,shopping,0,0,0,0,0,0,0,0,39.4,-83.18,Frankfort
+45628,Frankfort,OH,localservices,0,0,0,0,0,0,0,0,39.4,-83.18,Frankfort
+45658,Patriot,OH,restaurants,0,0,0,0,0,0,0,0,38.77,-82.43,Patriot
+45658,Patriot,OH,shopping,0,0,0,0,0,0,0,0,38.77,-82.43,Patriot
+45658,Patriot,OH,localservices,0,0,0,0,0,0,0,0,38.77,-82.43,Patriot
+45696,Willow Wood,OH,restaurants,0,0,0,0,0,0,0,0,38.59,-82.45,Willow Wood
+45696,Willow Wood,OH,shopping,0,0,0,0,0,0,0,0,38.59,-82.45,Willow Wood
+45696,Willow Wood,OH,localservices,0,0,0,0,0,0,0,0,38.59,-82.45,Willow Wood
+45821,Cecil,OH,restaurants,1,5,0,0,0,0,0,0,41.2360245326373,-84.56362282857296,Cecil
+45821,Cecil,OH,shopping,0,0,0,0,0,0,0,0,41.21,-84.6,Cecil
+45821,Cecil,OH,localservices,0,0,0,0,0,0,0,0,41.21,-84.6,Cecil
+45865,Minster,OH,restaurants,2,14,2,9,0,0,0,0,40.38794912010308,-84.37539725066742,Minster
+45865,Minster,OH,shopping,0,0,3,10,0,0,0,0,40.3672095,-84.3693165,Minster
+45865,Minster,OH,localservices,0,0,0,0,0,0,0,0,40.39,-84.37,Minster
+73021,Colony,OK,restaurants,0,0,0,0,0,0,0,0,35.34,-98.67,Colony
+73021,Colony,OK,shopping,0,0,0,0,0,0,0,0,35.34,-98.67,Colony
+73021,Colony,OK,localservices,0,0,0,0,0,0,0,0,35.34,-98.67,Colony
+73027,Coyle,OK,restaurants,0,0,0,0,0,0,0,0,35.95,-97.23,Coyle
+73027,Coyle,OK,shopping,0,0,0,0,0,0,0,0,35.95,-97.23,Coyle
+73027,Coyle,OK,localservices,0,0,0,0,0,0,0,0,35.95,-97.23,Coyle
+73059,Minco,OK,restaurants,1,7,0,0,0,0,0,0,35.31064839542341,-97.94488251922381,Minco
+73059,Minco,OK,shopping,1,1,0,0,0,0,0,0,35.3138302072805,-97.9463405557265,Minco
+73059,Minco,OK,localservices,0,0,0,0,0,0,0,0,35.3044290715332,-97.94986567939453,Minco
+73080,Purcell,OK,restaurants,5,107,4,44,0,0,0,0,35.003208134878626,-97.36819831996958,Purcell
+73080,Purcell,OK,shopping,2,4,2,3,0,0,0,0,35.0097201706953,-97.36526342490036,Purcell
+73080,Purcell,OK,localservices,0,0,0,0,0,0,0,0,35.023490430322255,-97.3661317945801,Purcell
+73095,Wayne,OK,restaurants,0,0,0,0,0,0,0,0,34.91,-97.31,Wayne
+73095,Wayne,OK,shopping,0,0,0,0,0,0,0,0,34.91,-97.31,Wayne
+73095,Wayne,OK,localservices,0,0,0,0,0,0,0,0,34.91,-97.31,Wayne
+73128,Oklahoma City,OK,restaurants,12,139,15,605,0,0,0,0,35.461173961925574,-97.63327091623273,Oklahoma City
+73128,Oklahoma City,OK,shopping,0,0,11,83,7,26,0,0,35.460355698791616,-97.63075591801464,Oklahoma City
+73128,Oklahoma City,OK,localservices,0,0,2,14,0,0,0,0,35.45701003898243,-97.63076421538156,Oklahoma City
+73440,Lebanon,OK,restaurants,0,0,0,0,0,0,0,0,33.98,-96.91,Lebanon
+73440,Lebanon,OK,shopping,0,0,0,0,0,0,0,0,33.9834,-96.91103,Lebanon
+73440,Lebanon,OK,localservices,0,0,0,0,0,0,0,0,33.98,-96.91,Lebanon
+73505,Lawton,OK,restaurants,35,812,34,1403,0,0,1,19,34.619982118641616,-98.44927134639072,Lawton
+73505,Lawton,OK,shopping,8,39,29,194,10,37,1,4,34.6196308794873,-98.44823346988558,Lawton
+73505,Lawton,OK,localservices,3,16,2,6,1,4,0,0,34.61715708017596,-98.4387564104549,Lawton
+73570,Tipton,OK,restaurants,0,0,0,0,0,0,0,0,34.5,-99.13,Tipton
+73570,Tipton,OK,shopping,0,0,0,0,0,0,0,0,34.5,-99.13,Tipton
+73570,Tipton,OK,localservices,0,0,0,0,0,0,0,0,34.5,-99.13,Tipton
+73722,Byron,OK,restaurants,0,0,0,0,0,0,0,0,36.9002411660529,-98.35806947140335,Burlington
+73722,Byron,OK,shopping,0,0,0,0,0,0,0,0,36.9,-98.42,Burlington
+73722,Byron,OK,localservices,0,0,0,0,0,0,0,0,36.9,-98.42,Burlington
+73742,Hennessey,OK,restaurants,2,9,2,7,0,0,0,0,36.10597735560863,-97.89899700177942,Hennessey
+73742,Hennessey,OK,shopping,0,0,0,0,0,0,0,0,36.051781,-97.899981,Hennessey
+73742,Hennessey,OK,localservices,0,0,0,0,0,0,0,0,36.1,-97.89,Hennessey
+73835,Camargo,OK,restaurants,0,0,0,0,0,0,0,0,36.01,-99.28,Camargo
+73835,Camargo,OK,shopping,0,0,0,0,0,0,0,0,36.01,-99.28,Camargo
+73835,Camargo,OK,localservices,0,0,0,0,0,0,0,0,36.01,-99.28,Camargo
+73841,Fort Supply,OK,restaurants,0,0,0,0,0,0,0,0,36.5733588454062,-99.5696991102683,Fort Supply
+73841,Fort Supply,OK,shopping,0,0,0,0,0,0,0,0,36.57,-99.57,Fort Supply
+73841,Fort Supply,OK,localservices,0,0,0,0,0,0,0,0,36.57,-99.57,Fort Supply
+74115,Tulsa,OK,restaurants,27,359,7,363,1,15,1,6,36.171413631449504,-95.90216740383083,Tulsa
+74115,Tulsa,OK,shopping,3,10,4,11,5,15,0,0,36.169083835373165,-95.9045891216523,Tulsa
+74115,Tulsa,OK,localservices,0,0,1,1,0,0,0,0,36.17805035149155,-95.91053621544354,Tulsa
+74131,Tulsa,OK,restaurants,0,0,0,0,0,0,0,0,36.05,-96.07,Tulsa
+74131,Tulsa,OK,shopping,0,0,0,0,0,0,0,0,36.06195,-96.06886,Tulsa
+74131,Tulsa,OK,localservices,0,0,0,0,0,0,0,0,36.0449755325253,-96.07792981621296,Tulsa
+74333,Bluejacket,OK,restaurants,0,0,0,0,0,0,0,0,36.8,-95.07,Bluejacket
+74333,Bluejacket,OK,shopping,0,0,0,0,0,0,0,0,36.8,-95.07,Bluejacket
+74333,Bluejacket,OK,localservices,0,0,0,0,0,0,0,0,36.8,-95.07,Bluejacket
+74644,Marland,OK,restaurants,0,0,0,0,0,0,0,0,36.56,-97.15,Marland
+74644,Marland,OK,shopping,0,0,0,0,0,0,0,0,36.56,-97.15,Marland
+74644,Marland,OK,localservices,0,0,0,0,0,0,0,0,36.56,-97.15,Marland
+74734,Eagletown,OK,restaurants,0,0,0,0,0,0,0,0,34.03,-94.57,Eagletown
+74734,Eagletown,OK,shopping,0,0,0,0,0,0,0,0,34.03,-94.57,Eagletown
+74734,Eagletown,OK,localservices,0,0,0,0,0,0,0,0,34.03,-94.57,Eagletown
+74764,Valliant,OK,restaurants,1,4,1,4,0,0,0,0,34.002991,-95.093100225,Valliant
+74764,Valliant,OK,shopping,0,0,0,0,0,0,0,0,34.00228,-95.09456,Valliant
+74764,Valliant,OK,localservices,0,0,0,0,0,0,0,0,34.00444917447095,-95.092782694742,Valliant
+74827,Atwood,OK,restaurants,0,0,0,0,0,0,0,0,34.95,-96.33,Atwood
+74827,Atwood,OK,shopping,0,0,0,0,0,0,0,0,34.95,-96.33,Atwood
+74827,Atwood,OK,localservices,0,0,0,0,0,0,0,0,34.95,-96.33,Atwood
+74864,Prague,OK,restaurants,2,9,3,66,0,0,0,0,35.462804927613334,-96.68505205222557,Prague
+74864,Prague,OK,shopping,0,0,0,0,0,0,0,0,35.48,-96.69,Prague
+74864,Prague,OK,localservices,0,0,0,0,0,0,0,0,35.48,-96.69,Prague
+74881,Wellston,OK,restaurants,1,4,1,97,0,0,0,0,35.68585396666666,-97.05698736666666,Wellston
+74881,Wellston,OK,shopping,0,0,0,0,0,0,0,0,35.68,-97.06,Wellston
+74881,Wellston,OK,localservices,0,0,0,0,0,0,0,0,35.68053,-97.043214,Wellston
+74932,Cameron,OK,restaurants,0,0,0,0,0,0,0,0,35.1943665902072,-94.4923492896928,Cameron
+74932,Cameron,OK,shopping,0,0,0,0,0,0,0,0,35.13,-94.53,Cameron
+74932,Cameron,OK,localservices,0,0,0,0,0,0,0,0,35.13,-94.53,Cameron
+74944,Mccurtain,OK,restaurants,0,0,0,0,0,0,0,0,35.13,-95.02,Mccurtain
+74944,Mccurtain,OK,shopping,0,0,0,0,0,0,0,0,35.13,-95.02,Mccurtain
+74944,Mccurtain,OK,localservices,0,0,0,0,0,0,0,0,35.13,-95.02,Mccurtain
+74953,Poteau,OK,restaurants,11,85,5,79,0,0,0,0,35.06996558106241,-94.62683731797428,Poteau
+74953,Poteau,OK,shopping,1,4,0,0,0,0,0,0,35.072079611800454,-94.62612300815539,Poteau
+74953,Poteau,OK,localservices,0,0,0,0,0,0,0,0,35.0660969,-94.62055600000001,Poteau
+97070,Wilsonville,OR,restaurants,26,1188,30,3278,0,0,0,0,45.30916219241241,-122.7677664688826,Wilsonville
+97070,Wilsonville,OR,shopping,4,34,25,512,6,115,2,10,45.31750229770996,-122.7646961816036,Wilsonville
+97070,Wilsonville,OR,localservices,0,0,3,23,0,0,2,17,45.315702927824766,-122.76850840676659,Wilsonville
+97106,Banks,OR,restaurants,3,63,3,86,0,0,0,0,45.627507001216586,-123.12835818963457,Banks
+97106,Banks,OR,shopping,1,2,1,4,0,0,0,0,45.631329296875,-123.125631682129,Banks
+97106,Banks,OR,localservices,0,0,0,0,0,0,0,0,45.6150668214524,-123.11283958930801,Banks
+97450,Langlois,OR,restaurants,1,61,0,0,0,0,0,0,42.92642,-124.4505,Langlois
+97450,Langlois,OR,shopping,0,0,0,0,0,0,0,0,42.939195366416456,-124.445110885942,Langlois
+97450,Langlois,OR,localservices,0,0,0,0,0,0,0,0,42.91,-124.35,Langlois
+97456,Monroe,OR,restaurants,1,17,0,0,1,15,0,0,44.3156315300065,-123.29720417608951,Monroe
+97456,Monroe,OR,shopping,0,0,0,0,0,0,0,0,44.31625,-123.29756499999999,Monroe
+97456,Monroe,OR,localservices,0,0,0,0,0,0,0,0,44.34,-123.33,Monroe
+97526,Grants Pass,OR,restaurants,40,1420,43,3752,0,0,0,0,42.44632609629428,-123.32579349323588,Grants Pass
+97526,Grants Pass,OR,shopping,12,93,30,197,13,65,0,0,42.44747426987621,-123.3295711537873,Grants Pass
+97526,Grants Pass,OR,localservices,5,31,4,43,4,24,0,0,42.44788972080491,-123.3268108176725,Grants Pass
+97641,Christmas Valley,OR,restaurants,0,0,2,16,0,0,0,0,43.23852308417963,-120.68892153888284,Christmas Valley
+97641,Christmas Valley,OR,shopping,0,0,0,0,0,0,0,0,43.3555530756712,-120.562507733703,Christmas Valley
+97641,Christmas Valley,OR,localservices,0,0,0,0,0,0,0,0,43.24,-120.59,Christmas Valley
+15017,Bridgeville,PA,restaurants,20,414,25,1678,0,0,0,0,40.362903350137984,-80.1092130949172,Bridgeville
+15017,Bridgeville,PA,shopping,7,42,20,106,4,25,2,11,40.36477453845355,-80.10850064255874,Bridgeville
+15017,Bridgeville,PA,localservices,0,0,2,13,1,7,1,5,40.36157291148987,-80.10993605089203,Bridgeville
+15022,Charleroi,PA,restaurants,5,49,8,199,0,0,0,0,40.137179076965026,-79.90107309767535,Charleroi
+15022,Charleroi,PA,shopping,0,0,1,4,0,0,0,0,40.137452483333334,-79.89649400833333,Charleroi
+15022,Charleroi,PA,localservices,0,0,0,0,0,0,0,0,40.140674525,-79.90103722500001,Charleroi
+15110,Duquesne,PA,restaurants,1,11,0,0,0,0,0,0,40.38109845807138,-79.86026768963285,Duquesne
+15110,Duquesne,PA,shopping,1,2,0,0,0,0,0,0,40.37088305002473,-79.84603464123668,Duquesne
+15110,Duquesne,PA,localservices,0,0,0,0,0,0,0,0,40.374518333333334,-79.845631,Duquesne
+15202,Avalon,PA,restaurants,20,488,10,460,1,35,0,0,40.498024773908874,-80.0658119124931,Pittsburgh
+15202,Avalon,PA,shopping,3,45,8,56,0,0,0,0,40.49693040189665,-80.06071829550126,Pittsburgh
+15202,Avalon,PA,localservices,2,4,2,8,0,0,0,0,40.50098739433836,-80.06843256044877,Pittsburgh
+15218,Pittsburgh,PA,restaurants,13,347,10,1133,0,0,0,0,40.42623366210916,-79.8902774403939,Pittsburgh
+15218,Pittsburgh,PA,shopping,7,34,6,55,2,14,0,0,40.42633840598074,-79.88957707046775,Pittsburgh
+15218,Pittsburgh,PA,localservices,2,5,0,0,0,0,0,0,40.42573344465649,-79.88524461409457,Pittsburgh
+15322,Clarksville,PA,restaurants,0,0,0,0,0,0,0,0,39.97,-80.04,Clarksville
+15322,Clarksville,PA,shopping,0,0,0,0,0,0,0,0,39.97,-80.04,Clarksville
+15322,Clarksville,PA,localservices,0,0,0,0,0,0,0,0,39.97,-80.04,Clarksville
+15436,Fairchance,PA,restaurants,0,0,1,1,0,0,0,0,39.82321775,-79.7549846,Fairchance
+15436,Fairchance,PA,shopping,0,0,0,0,0,0,0,0,39.818119949999996,-79.75032,Fairchance
+15436,Fairchance,PA,localservices,0,0,0,0,0,0,0,0,39.82,-79.75,Fairchance
+15551,Markleton,PA,restaurants,0,0,0,0,0,0,0,0,39.87,-79.29,Markleton
+15551,Markleton,PA,shopping,0,0,0,0,0,0,0,0,39.87,-79.29,Markleton
+15551,Markleton,PA,localservices,0,0,0,0,0,0,0,0,39.87,-79.29,Markleton
+15849,Penfield,PA,restaurants,0,0,1,9,0,0,0,0,41.2117307197955,-78.5701953348731,Penfield
+15849,Penfield,PA,shopping,0,0,0,0,0,0,0,0,41.242604,-78.539071,Penfield
+15849,Penfield,PA,localservices,0,0,0,0,0,0,0,0,41.21,-78.6,Penfield
+15864,Summerville,PA,restaurants,0,0,0,0,0,0,0,0,41.1,-79.2,Summerville
+15864,Summerville,PA,shopping,0,0,0,0,0,0,0,0,41.11585,-79.18901,Summerville
+15864,Summerville,PA,localservices,0,0,0,0,0,0,0,0,41.11615,-79.18865,Summerville
+15948,Revloc,PA,restaurants,0,0,0,0,0,0,0,0,40.49,-78.76,Revloc
+15948,Revloc,PA,shopping,0,0,0,0,0,0,0,0,40.49,-78.76,Revloc
+15948,Revloc,PA,localservices,0,0,0,0,0,0,0,0,40.49,-78.76,Revloc
+15949,Robinson,PA,restaurants,0,0,0,0,0,0,0,0,40.41,-79.13,Robinson
+15949,Robinson,PA,shopping,0,0,0,0,0,0,0,0,40.41,-79.13,Robinson
+15949,Robinson,PA,localservices,0,0,0,0,0,0,0,0,40.41,-79.13,Robinson
+16030,Eau Claire,PA,restaurants,0,0,0,0,0,0,0,0,41.13,-79.79,Eau Claire
+16030,Eau Claire,PA,shopping,0,0,0,0,0,0,0,0,41.13,-79.79,Eau Claire
+16030,Eau Claire,PA,localservices,0,0,0,0,0,0,0,0,41.13,-79.79,Eau Claire
+16034,Fenelton,PA,restaurants,1,3,0,0,0,0,0,0,40.8525216766669,-79.693766728773,Fenelton
+16034,Fenelton,PA,shopping,0,0,1,3,0,0,0,0,40.841901,-79.755218,Fenelton
+16034,Fenelton,PA,localservices,0,0,0,0,0,0,0,0,40.85,-79.75,Fenelton
+16037,Harmony,PA,restaurants,5,124,6,522,1,11,0,0,40.816453611324235,-80.1299199576172,Harmony
+16037,Harmony,PA,shopping,0,0,3,13,0,0,0,0,40.828223121118164,-80.13186619236653,Harmony
+16037,Harmony,PA,localservices,0,0,0,0,0,0,0,0,40.80443925,-80.13681095,Harmony
+16051,Portersville,PA,restaurants,3,56,0,0,0,0,0,0,40.94598784854792,-80.14483657745411,Portersville
+16051,Portersville,PA,shopping,0,0,0,0,0,0,0,0,40.92,-80.14,Portersville
+16051,Portersville,PA,localservices,0,0,0,0,0,0,0,0,40.9470115286639,-80.15254785012814,Portersville
+16055,Sarver,PA,restaurants,3,34,5,120,0,0,0,0,40.713394797373105,-79.73863491767538,Sarver
+16055,Sarver,PA,shopping,0,0,1,1,0,0,0,0,40.69949069417355,-79.75203183077477,Sarver
+16055,Sarver,PA,localservices,0,0,1,1,0,0,0,0,40.71197283164203,-79.74261753317907,Sarver
+16132,Hillsville,PA,restaurants,0,0,0,0,0,0,0,0,41.0,-80.5,Hillsville
+16132,Hillsville,PA,shopping,0,0,0,0,0,0,0,0,41.0,-80.5,Hillsville
+16132,Hillsville,PA,localservices,0,0,0,0,0,0,0,0,41.0,-80.5,Hillsville
+16239,Marienville,PA,restaurants,1,4,1,6,0,0,0,0,41.467293944576035,-79.12632078898237,Marienville
+16239,Marienville,PA,shopping,0,0,0,0,0,0,0,0,41.45,-79.08,Marienville
+16239,Marienville,PA,localservices,0,0,0,0,0,0,0,0,41.45,-79.08,Marienville
+16323,Franklin,PA,restaurants,4,35,8,114,0,0,0,0,41.398583164436864,-79.82617806077572,Franklin
+16323,Franklin,PA,shopping,1,1,2,3,0,0,0,0,41.40241572440186,-79.84747859561767,Franklin
+16323,Franklin,PA,localservices,0,0,0,0,0,0,0,0,41.3943881,-79.84072799999998,Franklin
+16415,Fairview,PA,restaurants,3,50,5,61,1,21,0,0,42.03513657129793,-80.24163464295985,Fairview
+16415,Fairview,PA,shopping,0,0,1,1,0,0,0,0,42.040537,-80.260265,Fairview
+16415,Fairview,PA,localservices,0,0,0,0,0,0,0,0,42.038362,-80.220356,Fairview
+16501,Erie,PA,restaurants,10,275,16,780,1,108,0,0,42.12562150720017,-80.08307028937286,Erie
+16501,Erie,PA,shopping,0,0,3,3,0,0,0,0,42.12294309619282,-80.08208739074075,Erie
+16501,Erie,PA,localservices,0,0,0,0,0,0,0,0,42.12249237410714,-80.08224544514508,Erie
+16647,Hesston,PA,restaurants,0,0,0,0,0,0,0,0,40.39605308886855,-78.09313320630595,Hesston
+16647,Hesston,PA,shopping,1,2,0,0,0,0,0,0,40.4167672,-78.1036373,Hesston
+16647,Hesston,PA,localservices,0,0,0,0,0,0,0,0,40.39,-78.11,Hesston
+16661,Madera,PA,restaurants,0,0,0,0,0,0,0,0,40.82,-78.44,Madera
+16661,Madera,PA,shopping,0,0,0,0,0,0,0,0,40.82,-78.44,Madera
+16661,Madera,PA,localservices,0,0,0,0,0,0,0,0,40.82,-78.44,Madera
+16665,Newry,PA,restaurants,0,0,0,0,0,0,0,0,40.3931489981605,-78.4362728156224,Newry
+16665,Newry,PA,shopping,0,0,1,3,0,0,0,0,40.38903579362155,-78.4354808796578,Newry
+16665,Newry,PA,localservices,0,0,0,0,0,0,0,0,40.39,-78.43,Newry
+16669,Petersburg,PA,restaurants,0,0,1,22,0,0,0,0,40.6712753,-77.8743725,Petersburg
+16669,Petersburg,PA,shopping,0,0,0,0,0,0,0,0,40.57,-78.04,Petersburg
+16669,Petersburg,PA,localservices,0,0,0,0,0,0,0,0,40.57,-78.04,Petersburg
+16673,Roaring Spring,PA,restaurants,3,24,1,8,0,0,0,0,40.33152009153442,-78.39185231844483,Roaring Spring
+16673,Roaring Spring,PA,shopping,0,0,1,1,0,0,0,0,40.3401910992136,-78.40018029570523,Roaring Spring
+16673,Roaring Spring,PA,localservices,0,0,0,0,0,0,0,0,40.33,-78.39,Roaring Spring
+16740,Mount Jewett,PA,restaurants,1,11,1,11,0,0,0,0,41.7416799,-78.68350966666667,Mount Jewett
+16740,Mount Jewett,PA,shopping,0,0,0,0,0,0,0,0,41.72,-78.64,Mount Jewett
+16740,Mount Jewett,PA,localservices,0,0,0,0,0,0,0,0,41.72,-78.64,Mount Jewett
+16936,Millerton,PA,restaurants,0,0,0,0,0,0,0,0,41.98,-76.95,Millerton
+16936,Millerton,PA,shopping,0,0,0,0,0,0,0,0,41.9816081,-76.9433252,Millerton
+16936,Millerton,PA,localservices,0,0,0,0,0,0,0,0,41.98,-76.95,Millerton
+17052,Mapleton Depot,PA,restaurants,0,0,1,1,0,0,0,0,40.408791,-77.936683,Mapleton Depot
+17052,Mapleton Depot,PA,shopping,0,0,0,0,0,0,0,0,40.37,-77.97,Mapleton Depot
+17052,Mapleton Depot,PA,localservices,0,0,0,0,0,0,0,0,40.37,-77.97,Mapleton Depot
+17058,Mifflin,PA,restaurants,0,0,0,0,0,0,0,0,40.51,-77.55,Mifflin
+17058,Mifflin,PA,shopping,0,0,0,0,0,0,0,0,40.51,-77.55,Mifflin
+17058,Mifflin,PA,localservices,0,0,0,0,0,0,0,0,40.5536270141602,-77.4253234863281,Mifflin
+17098,Williamstown,PA,restaurants,0,0,0,0,0,0,0,0,40.58,-76.61,Williamstown
+17098,Williamstown,PA,shopping,0,0,0,0,0,0,0,0,40.58,-76.61,Williamstown
+17098,Williamstown,PA,localservices,0,0,0,0,0,0,0,0,40.57222,-76.64772,Williamstown
+17268,Waynesboro,PA,restaurants,13,195,12,295,1,18,0,0,39.75282703014846,-77.5658272003411,Waynesboro
+17268,Waynesboro,PA,shopping,4,5,8,22,1,1,0,0,39.7488951369988,-77.56125246618338,Waynesboro
+17268,Waynesboro,PA,localservices,0,0,0,0,0,0,0,0,39.757775173457006,-77.56310504011888,Waynesboro
+17365,Wellsville,PA,restaurants,1,6,2,22,0,0,0,0,40.07081227914684,-76.9230487028271,Wellsville
+17365,Wellsville,PA,shopping,0,0,1,3,0,0,0,0,40.0499688,-76.9339973,Wellsville
+17365,Wellsville,PA,localservices,0,0,0,0,0,0,0,0,40.05,-76.94,Wellsville
+17366,Windsor,PA,restaurants,1,8,0,0,0,0,0,0,39.91508,-76.580412,Windsor
+17366,Windsor,PA,shopping,0,0,0,0,0,0,0,0,39.91,-76.58,Windsor
+17366,Windsor,PA,localservices,0,0,0,0,0,0,0,0,39.91485,-76.58363,Windsor
+17772,Turbotville,PA,restaurants,2,4,0,0,0,0,0,0,41.109981,-76.76687133333333,Turbotville
+17772,Turbotville,PA,shopping,0,0,0,0,0,0,0,0,41.13399030096345,-76.87880342314071,Turbotville
+17772,Turbotville,PA,localservices,0,0,0,0,0,0,0,0,41.1,-76.76,Turbotville
+17812,Beaver Springs,PA,restaurants,0,0,1,2,0,0,0,0,40.748556565307595,-77.20973297192384,Beaver Springs
+17812,Beaver Springs,PA,shopping,0,0,0,0,0,0,0,0,40.7478449885254,-77.20973982812501,Beaver Springs
+17812,Beaver Springs,PA,localservices,0,0,0,0,0,0,0,0,40.74,-77.22,Beaver Springs
+17815,Bloomsburg,PA,restaurants,25,417,21,835,1,16,0,0,41.01076951480624,-76.44862330392705,Bloomsburg
+17815,Bloomsburg,PA,shopping,3,34,4,10,3,13,4,16,41.00775947232145,-76.4547850300042,Bloomsburg
+17815,Bloomsburg,PA,localservices,0,0,1,5,0,0,1,3,41.004779845882545,-76.43420972596067,Bloomsburg
+17846,Millville,PA,restaurants,1,5,1,3,0,0,0,0,41.11820666666666,-76.52834,Millville
+17846,Millville,PA,shopping,0,0,0,0,0,0,0,0,41.12,-76.52,Millville
+17846,Millville,PA,localservices,0,0,0,0,0,0,0,0,41.12,-76.52,Millville
+17878,Stillwater,PA,restaurants,0,0,0,0,1,4,0,0,41.192,-76.30158,Stillwater
+17878,Stillwater,PA,shopping,0,0,0,0,0,0,0,0,41.15,-76.36,Stillwater
+17878,Stillwater,PA,localservices,0,0,0,0,0,0,0,0,41.15,-76.36,Stillwater
+18103,Allentown,PA,restaurants,26,971,15,715,0,0,0,0,40.57148049032999,-75.49483959889699,Allentown
+18103,Allentown,PA,shopping,6,59,22,144,2,6,1,6,40.5674375596509,-75.49426532921146,Allentown
+18103,Allentown,PA,localservices,2,4,1,5,0,0,1,3,40.570607969258155,-75.48277325226987,Allentown
+18428,Hawley,PA,restaurants,11,195,13,656,3,117,2,18,41.436511725362145,-75.13754954667904,Hawley
+18428,Hawley,PA,shopping,1,9,2,6,2,21,1,2,41.46368694144739,-75.16443027461338,Hawley
+18428,Hawley,PA,localservices,0,0,1,3,0,0,0,0,41.44026602429955,-75.15969533550945,Hawley
+18451,Paupack,PA,restaurants,0,0,1,17,0,0,0,0,41.3952820999553,-75.243994984314,Paupack
+18451,Paupack,PA,shopping,0,0,0,0,0,0,0,0,41.370022,-75.2531884,Paupack
+18451,Paupack,PA,localservices,0,0,0,0,0,0,0,0,41.39,-75.19,Paupack
+18517,Taylor,PA,restaurants,1,14,3,23,0,0,0,0,41.38274010084398,-75.71281880087723,Taylor
+18517,Taylor,PA,shopping,0,0,1,4,0,0,0,0,41.395814750314244,-75.6943707580987,Taylor
+18517,Taylor,PA,localservices,0,0,1,1,0,0,0,0,41.39119138471377,-75.70034568372476,Taylor
+18519,Dickson City,PA,restaurants,6,70,20,837,0,0,0,0,41.46222042878281,-75.63683200031579,Scranton
+18519,Dickson City,PA,shopping,3,23,19,107,7,27,0,0,41.461953965684096,-75.64037538642123,Scranton
+18519,Dickson City,PA,localservices,0,0,1,8,0,0,0,0,41.45907265440662,-75.6369326855919,Scranton
+18801,Montrose,PA,restaurants,2,11,2,30,0,0,0,0,41.830644867500276,-75.87117144319446,Montrose
+18801,Montrose,PA,shopping,0,0,0,0,0,0,0,0,41.83345086162158,-75.86970353256757,Montrose
+18801,Montrose,PA,localservices,0,0,0,0,0,0,0,0,41.83568508626742,-75.860816885566,Montrose
+18833,New Albany,PA,restaurants,0,0,0,0,0,0,0,0,41.6,-76.44,New Albany
+18833,New Albany,PA,shopping,0,0,0,0,0,0,0,0,41.6196403,-76.4550101,New Albany
+18833,New Albany,PA,localservices,0,0,0,0,0,0,0,0,41.6,-76.44,New Albany
+18976,Warrington,PA,restaurants,13,282,23,1697,2,232,0,0,40.23598893099364,-75.13649002811681,Warrington
+18976,Warrington,PA,shopping,3,21,25,210,7,72,2,11,40.23356688127383,-75.13656822814744,Warrington
+18976,Warrington,PA,localservices,2,13,0,0,0,0,0,0,40.24050612958471,-75.13810263034722,Warrington
+19004,Bala Cynwyd,PA,restaurants,9,320,17,1364,3,199,1,66,40.00629957531074,-75.22914075389416,Bala Cynwyd
+19004,Bala Cynwyd,PA,shopping,2,4,11,130,3,46,4,70,40.00632089448729,-75.22727678530057,Bala Cynwyd
+19004,Bala Cynwyd,PA,localservices,1,4,3,22,1,3,1,4,40.00624898241912,-75.22973004843482,Bala Cynwyd
+19046,Jenkintown,PA,restaurants,12,590,22,1878,1,52,0,0,40.095604785166366,-75.1214682238743,Jenkintown
+19046,Jenkintown,PA,shopping,1,5,26,229,11,111,1,9,40.09679023911783,-75.12222274449982,Jenkintown
+19046,Jenkintown,PA,localservices,2,63,6,56,0,0,1,9,40.09604096996053,-75.11707098908292,Jenkintown
+19150,Philadelphia,PA,restaurants,13,235,12,246,0,0,0,0,40.073269179586696,-75.16476631872312,Philadelphia
+19150,Philadelphia,PA,shopping,1,3,6,157,1,3,0,0,40.07576431667993,-75.1678045467814,Philadelphia
+19150,Philadelphia,PA,localservices,1,1,2,15,1,3,0,0,40.07517644461869,-75.16942881999277,Philadelphia
+19330,Cochranville,PA,restaurants,1,13,0,0,0,0,0,0,39.8914100577519,-75.92150520206866,Cochranville
+19330,Cochranville,PA,shopping,0,0,0,0,1,5,0,0,39.8646354855713,-75.92161941210941,Cochranville
+19330,Cochranville,PA,localservices,0,0,0,0,0,0,0,0,39.87,-75.92,Cochranville
+19342,Glen Mills,PA,restaurants,11,430,33,3056,1,126,0,0,39.87943543545568,-75.5328924012416,Glen Mills
+19342,Glen Mills,PA,shopping,2,11,25,581,13,50,2,10,39.8833202449395,-75.53045094037621,Glen Mills
+19342,Glen Mills,PA,localservices,1,9,2,18,1,3,0,0,39.884401766562185,-75.5229141754968,Glen Mills
+19343,Glenmoore,PA,restaurants,2,18,1,62,0,0,0,0,40.10212994,-75.72257929999999,Glenmoore
+19343,Glenmoore,PA,shopping,0,0,1,1,0,0,1,1,40.09478116666667,-75.73647136666666,Glenmoore
+19343,Glenmoore,PA,localservices,0,0,0,0,0,0,0,0,40.115251,-75.695032,Glenmoore
+19344,Honey Brook,PA,restaurants,5,93,2,93,0,0,0,0,40.086135046366365,-75.8995852426066,Honey Brook
+19344,Honey Brook,PA,shopping,1,3,0,0,0,0,0,0,40.07727,-75.9142,Honey Brook
+19344,Honey Brook,PA,localservices,0,0,1,3,0,0,0,0,40.08616870940586,-75.87334998601565,Honey Brook
+19406,King of Prussia,PA,restaurants,37,1235,39,6194,8,1375,1,129,40.090427622769404,-75.38318786534603,King Of Prussia
+19406,King of Prussia,PA,shopping,6,24,35,416,24,147,4,36,40.0887829438717,-75.38490427287667,King Of Prussia
+19406,King of Prussia,PA,localservices,6,95,7,107,4,188,1,24,40.09261104861726,-75.379349449972,King Of Prussia
+02813,Charlestown,RI,restaurants,3,154,16,821,0,0,1,284,41.386658904678754,-71.64594896108385,Charlestown
+02813,Charlestown,RI,shopping,2,4,5,109,4,38,1,3,41.3793944101773,-71.64635618462125,Charlestown
+02813,Charlestown,RI,localservices,1,2,0,0,1,3,0,0,41.388775168398766,-71.6301930962049,Charlestown
+02818,East Greenwich,RI,restaurants,9,209,42,3978,2,307,0,0,41.65340684120486,-71.46583143382371,East Greenwich
+02818,East Greenwich,RI,shopping,2,10,21,160,8,36,3,11,41.65435212300363,-71.45932805144969,East Greenwich
+02818,East Greenwich,RI,localservices,1,4,4,19,3,10,0,0,41.649525108662154,-71.46666165459388,East Greenwich
+02857,North Scituate,RI,restaurants,6,130,5,216,0,0,0,0,41.84286911880168,-71.59588268073057,North Scituate
+02857,North Scituate,RI,shopping,1,5,7,37,0,0,0,0,41.838241030659205,-71.6202511584958,North Scituate
+02857,North Scituate,RI,localservices,0,0,0,0,0,0,0,0,41.8387673002131,-71.6125736692619,North Scituate
+02895,Woonsocket,RI,restaurants,33,814,24,1228,1,20,0,0,42.0048242793729,-71.50321693304491,Woonsocket
+02895,Woonsocket,RI,shopping,10,69,14,78,4,18,1,4,42.00566887327765,-71.49595527929617,Woonsocket
+02895,Woonsocket,RI,localservices,3,20,4,30,0,0,0,0,42.00563737788473,-71.50678064461509,Woonsocket
+29072,Lexington,SC,restaurants,36,796,45,2137,2,36,0,0,33.992299310592564,-81.22699234055965,Lexington
+29072,Lexington,SC,shopping,7,8,39,178,10,50,2,16,33.996473843771874,-81.22428034330159,Lexington
+29072,Lexington,SC,localservices,2,4,3,28,0,0,1,6,33.99257510455855,-81.22572290952685,Lexington
+29113,Norway,SC,restaurants,0,0,0,0,0,0,0,0,33.44,-81.12,Norway
+29113,Norway,SC,shopping,0,0,0,0,0,0,0,0,33.44,-81.12,Norway
+29113,Norway,SC,localservices,0,0,0,0,0,0,0,0,33.44,-81.12,Norway
+29172,West Columbia,SC,restaurants,2,25,3,33,0,0,0,0,33.92132960430863,-81.07290439729701,West Columbia
+29172,West Columbia,SC,shopping,0,0,0,0,0,0,0,0,33.9284567,-81.1075281,West Columbia
+29172,West Columbia,SC,localservices,1,1,0,0,0,0,0,0,33.93129941055935,-81.08752419975875,West Columbia
+29403,Charleston,SC,restaurants,19,2687,53,13950,6,1587,2,1588,32.790848090070575,-79.94142571843143,Charleston
+29403,Charleston,SC,shopping,4,40,15,206,11,81,1,1,32.79051742824256,-79.94147526566245,Charleston
+29403,Charleston,SC,localservices,1,2,3,74,1,8,0,0,32.795480230700555,-79.94547305752616,Charleston
+29543,Fork,SC,restaurants,0,0,0,0,0,0,0,0,34.28,-79.27,Fork
+29543,Fork,SC,shopping,0,0,0,0,0,0,0,0,34.28,-79.27,Fork
+29543,Fork,SC,localservices,0,0,0,0,0,0,0,0,34.28,-79.27,Fork
+29574,Mullins,SC,restaurants,6,57,1,1,0,0,0,0,34.20247676838491,-79.2640529280284,Mullins
+29574,Mullins,SC,shopping,0,0,1,1,0,0,0,0,34.19964228444289,-79.26063349783885,Mullins
+29574,Mullins,SC,localservices,0,0,0,0,0,0,0,0,34.2,-79.25,Mullins
+29607,Greenville,SC,restaurants,18,565,28,2969,0,0,0,0,34.82726159338016,-82.31730207820284,Greenville
+29607,Greenville,SC,shopping,3,18,24,259,8,55,0,0,34.823670936719836,-82.32551666783593,Greenville
+29607,Greenville,SC,localservices,1,1,6,46,3,53,1,4,34.83073426861536,-82.33067073322934,Greenville
+29834,Langley,SC,restaurants,0,0,0,0,0,0,0,0,33.51,-81.86,Langley
+29834,Langley,SC,shopping,0,0,0,0,0,0,0,0,33.51,-81.86,Langley
+29834,Langley,SC,localservices,0,0,0,0,0,0,0,0,33.51,-81.86,Langley
+29845,Plum Branch,SC,restaurants,1,2,0,0,0,0,0,0,33.7827921182309,-82.2564330137461,Plum Branch
+29845,Plum Branch,SC,shopping,0,0,0,0,0,0,0,0,33.84,-82.25,Plum Branch
+29845,Plum Branch,SC,localservices,0,0,0,0,0,0,0,0,33.84,-82.25,Plum Branch
+29936,Ridgeland,SC,restaurants,10,364,6,78,0,0,0,0,32.44373836656584,-80.9642378795483,Ridgeland
+29936,Ridgeland,SC,shopping,1,3,2,3,1,5,0,0,32.363183587473856,-80.94469413127237,Ridgeland
+29936,Ridgeland,SC,localservices,0,0,0,0,0,0,0,0,32.39075429930763,-80.94540101029617,Ridgeland
+57266,Summit,SD,restaurants,0,0,0,0,0,0,0,0,45.1810951,-97.1027832,Summit
+57266,Summit,SD,shopping,0,0,0,0,0,0,0,0,45.3,-97.03,Summit
+57266,Summit,SD,localservices,0,0,0,0,0,0,0,0,45.3,-97.03,Summit
+57268,Toronto,SD,restaurants,0,0,0,0,0,0,0,0,44.56458,-96.64257,Toronto
+57268,Toronto,SD,shopping,0,0,0,0,0,0,0,0,44.57,-96.64,Toronto
+57268,Toronto,SD,localservices,0,0,0,0,0,0,0,0,44.57,-96.64,Toronto
+57317,Bonesteel,SD,restaurants,0,0,0,0,0,0,0,0,43.07,-98.94,Bonesteel
+57317,Bonesteel,SD,shopping,0,0,0,0,0,0,0,0,43.07,-98.94,Bonesteel
+57317,Bonesteel,SD,localservices,0,0,0,0,0,0,0,0,43.07,-98.94,Bonesteel
+57328,Corsica,SD,restaurants,0,0,0,0,0,0,0,0,43.42,-98.4,Corsica
+57328,Corsica,SD,shopping,0,0,0,0,0,0,0,0,43.4412477461507,-98.6483620385052,Corsica
+57328,Corsica,SD,localservices,0,0,0,0,0,0,0,0,43.42,-98.4,Corsica
+57384,Wolsey,SD,restaurants,0,0,0,0,0,0,0,0,44.4057832,-98.4751049,Wolsey
+57384,Wolsey,SD,shopping,0,0,0,0,0,0,0,0,44.41,-98.47,Wolsey
+57384,Wolsey,SD,localservices,0,0,0,0,0,0,0,0,44.41,-98.47,Wolsey
+57456,Leola,SD,restaurants,0,0,0,0,0,0,0,0,45.72,-98.93,Leola
+57456,Leola,SD,shopping,0,0,0,0,0,0,0,0,45.72,-98.93,Leola
+57456,Leola,SD,localservices,0,0,0,0,0,0,0,0,45.72,-98.93,Leola
+57472,Selby,SD,restaurants,1,2,0,0,0,0,0,0,45.52067413146975,-100.0555059020995,Selby
+57472,Selby,SD,shopping,0,0,0,0,0,0,0,0,45.5,-100.03,Selby
+57472,Selby,SD,localservices,0,0,0,0,0,0,0,0,45.5,-100.03,Selby
+57632,Herreid,SD,restaurants,0,0,0,0,0,0,0,0,45.8376251243735,-100.068877817535,Herreid
+57632,Herreid,SD,shopping,0,0,0,0,0,0,0,0,45.83,-100.07,Herreid
+57632,Herreid,SD,localservices,0,0,0,0,0,0,0,0,45.83,-100.07,Herreid
+57759,Nemo,SD,restaurants,0,0,1,7,0,0,0,0,44.2235484413618,-103.517439465344,Nemo
+57759,Nemo,SD,shopping,0,0,0,0,0,0,0,0,44.19,-103.5,Nemo
+57759,Nemo,SD,localservices,0,0,0,0,0,0,0,0,44.19,-103.5,Nemo
+57760,Newell,SD,restaurants,0,0,0,0,0,0,0,0,44.7140835,-103.425239,Newell
+57760,Newell,SD,shopping,0,0,0,0,0,0,0,0,44.71,-103.41,Newell
+57760,Newell,SD,localservices,0,0,0,0,0,0,0,0,44.71,-103.41,Newell
+57762,Nisland,SD,restaurants,0,0,0,0,0,0,0,0,44.67,-103.55,Nisland
+57762,Nisland,SD,shopping,0,0,0,0,0,0,0,0,44.67,-103.55,Nisland
+57762,Nisland,SD,localservices,0,0,0,0,0,0,0,0,44.67,-103.55,Nisland
+57785,Sturgis,SD,restaurants,6,74,6,186,0,0,0,0,44.41074469397548,-103.51419125203178,Sturgis
+57785,Sturgis,SD,shopping,1,1,1,1,0,0,0,0,44.41489583533779,-103.51684599877082,Sturgis
+57785,Sturgis,SD,localservices,0,0,0,0,0,0,0,0,44.409295332836535,-103.4941986048835,Sturgis
+37062,Fairview,TN,restaurants,8,126,4,58,0,0,1,7,35.98188592008261,-87.12858318376871,Fairview
+37062,Fairview,TN,shopping,3,9,3,6,0,0,0,0,35.98538496244984,-87.12413248950392,Fairview
+37062,Fairview,TN,localservices,0,0,0,0,1,3,0,0,35.9530742614746,-87.13829563964843,Fairview
+37064,Franklin,TN,restaurants,33,1823,38,3381,2,522,0,0,35.915671474279534,-86.88039243490947,Franklin
+37064,Franklin,TN,shopping,6,80,37,233,24,121,2,34,35.91839117204728,-86.88443786323222,Franklin
+37064,Franklin,TN,localservices,2,6,4,19,2,14,1,8,35.91163508010244,-86.88034006845373,Franklin
+37079,Indian Mound,TN,restaurants,0,0,0,0,0,0,0,0,36.5556,-87.70659,Indian Mound
+37079,Indian Mound,TN,shopping,0,0,0,0,0,0,0,0,36.47,-87.66,Indian Mound
+37079,Indian Mound,TN,localservices,0,0,0,0,0,0,0,0,36.47,-87.66,Indian Mound
+37148,Portland,TN,restaurants,14,142,3,40,0,0,0,0,36.57728907638907,-86.52848041488868,Portland
+37148,Portland,TN,shopping,2,3,2,4,0,0,0,0,36.579622303872554,-86.51707233705132,Portland
+37148,Portland,TN,localservices,0,0,0,0,0,0,0,0,36.602068489669364,-86.53476542460935,Portland
+37306,Belvidere,TN,restaurants,1,8,0,0,0,0,0,0,35.109377,-86.211977,Belvidere
+37306,Belvidere,TN,shopping,0,0,0,0,0,0,0,0,35.14044855078875,-86.22658811296739,Belvidere
+37306,Belvidere,TN,localservices,0,0,0,0,0,0,0,0,35.12,-86.18,Belvidere
+37727,Del Rio,TN,restaurants,0,0,0,0,0,0,0,0,35.91,-83.02,Del Rio
+37727,Del Rio,TN,shopping,0,0,0,0,0,0,0,0,35.91,-83.02,Del Rio
+37727,Del Rio,TN,localservices,0,0,0,0,0,0,0,0,35.91,-83.02,Del Rio
+37731,Eidson,TN,restaurants,0,0,0,0,0,0,0,0,36.5,-83.08,Eidson
+37731,Eidson,TN,shopping,0,0,0,0,0,0,0,0,36.5,-83.08,Eidson
+37731,Eidson,TN,localservices,0,0,0,0,0,0,0,0,36.5,-83.08,Eidson
+37756,Huntsville,TN,restaurants,0,0,0,0,0,0,0,0,36.40356233333333,-84.491872,Huntsville
+37756,Huntsville,TN,shopping,0,0,0,0,0,0,0,0,36.41,-84.48,Huntsville
+37756,Huntsville,TN,localservices,0,0,0,0,0,0,0,0,36.41,-84.48,Huntsville
+37760,Jefferson City,TN,restaurants,18,176,4,65,0,0,0,0,36.11882475640998,-83.4808284545355,Jefferson City
+37760,Jefferson City,TN,shopping,1,4,3,4,0,0,2,3,36.12148373466896,-83.48137043918122,Jefferson City
+37760,Jefferson City,TN,localservices,0,0,1,1,0,0,1,2,36.100967020279946,-83.46918562739258,Jefferson City
+37873,Surgoinsville,TN,restaurants,0,0,0,0,0,0,0,0,36.485053,-82.8478818,Surgoinsville
+37873,Surgoinsville,TN,shopping,0,0,0,0,0,0,0,0,36.47,-82.85,Surgoinsville
+37873,Surgoinsville,TN,localservices,0,0,0,0,0,0,0,0,36.47,-82.85,Surgoinsville
+37920,Knoxville,TN,restaurants,22,234,8,361,0,0,0,0,35.937097344336976,-83.89976272633528,Knoxville
+37920,Knoxville,TN,shopping,4,17,14,65,2,4,2,6,35.93152103464037,-83.89752514542288,Knoxville
+37920,Knoxville,TN,localservices,0,0,2,5,0,0,0,0,35.92408827891519,-83.86862662988761,Knoxville
+38011,Brighton,TN,restaurants,1,14,0,0,0,0,0,0,35.48502,-89.72242,Brighton
+38011,Brighton,TN,shopping,1,3,0,0,0,0,0,0,35.4735576,-89.7191729,Brighton
+38011,Brighton,TN,localservices,0,0,0,0,0,0,0,0,35.45352065,-89.70842025,Brighton
+38049,Mason,TN,restaurants,2,93,2,16,0,0,0,0,35.38677357669225,-89.54140575474251,Mason
+38049,Mason,TN,shopping,0,0,0,0,0,0,0,0,35.41,-89.53,Mason
+38049,Mason,TN,localservices,0,0,0,0,0,0,0,0,35.375959,-89.575514,Mason
+38112,Memphis,TN,restaurants,7,279,6,662,1,68,0,0,35.14577722034715,-89.97614878654267,Memphis
+38112,Memphis,TN,shopping,0,0,8,155,5,18,0,0,35.14674775577169,-89.97240986929528,Memphis
+38112,Memphis,TN,localservices,1,2,4,53,2,13,0,0,35.143782162778905,-89.9747663719035,Memphis
+38241,Palmersville,TN,restaurants,0,0,0,0,0,0,0,0,36.4025955200195,-88.5865020751953,Palmersville
+38241,Palmersville,TN,shopping,0,0,0,0,0,0,0,0,36.41,-88.58,Palmersville
+38241,Palmersville,TN,localservices,0,0,0,0,0,0,0,0,36.41,-88.58,Palmersville
+38355,Medina,TN,restaurants,1,7,0,0,0,0,0,0,35.80049878372587,-88.78027681372683,Medina
+38355,Medina,TN,shopping,0,0,0,0,0,0,0,0,35.8017451420799,-88.7763440608978,Medina
+38355,Medina,TN,localservices,0,0,0,0,0,0,0,0,35.797080310974124,-88.7821676715088,Medina
+38506,Algood,TN,restaurants,4,23,1,25,0,0,0,0,36.17902804605034,-85.45677751536459,Cookeville
+38506,Algood,TN,shopping,1,2,8,22,1,2,0,0,36.171007063510515,-85.46691053899012,Cookeville
+38506,Algood,TN,localservices,0,0,0,0,0,0,0,0,36.149700442776144,-85.50218117268491,Cookeville
+38569,Lancaster,TN,restaurants,0,0,0,0,0,0,0,0,36.0775795,-85.8635712,Lancaster
+38569,Lancaster,TN,shopping,0,0,0,0,0,0,0,0,36.09,-85.85,Lancaster
+38569,Lancaster,TN,localservices,0,0,0,0,0,0,0,0,36.09,-85.85,Lancaster
+75092,Sherman,TX,restaurants,11,494,6,233,0,0,0,0,33.65315598417202,-96.62245092031426,Sherman
+75092,Sherman,TX,shopping,4,12,8,37,1,11,1,3,33.66966181086244,-96.62360914054983,Sherman
+75092,Sherman,TX,localservices,0,0,0,0,0,0,0,0,33.64476312507935,-96.6318527553711,Sherman
+75215,Dallas,TX,restaurants,16,846,11,1577,0,0,0,0,32.76838144926846,-96.78325923978109,Dallas
+75215,Dallas,TX,shopping,2,7,2,10,1,68,0,0,32.76702430323241,-96.7874365196246,Dallas
+75215,Dallas,TX,localservices,1,5,0,0,0,0,0,0,32.76568951545694,-96.77737596509051,Dallas
+75234,Dallas,TX,restaurants,40,1481,12,505,0,0,0,0,32.9242043716165,-96.88344490815724,Dallas
+75234,Dallas,TX,shopping,8,117,21,320,4,14,0,0,32.91732993806937,-96.89017914721124,Dallas
+75234,Dallas,TX,localservices,3,29,4,30,1,5,0,0,32.921344577439385,-96.88839904355711,Dallas
+75254,Dallas,TX,restaurants,30,3096,40,11853,5,1479,0,0,32.950378255763205,-96.81479585719039,Dallas
+75254,Dallas,TX,shopping,5,67,28,539,6,201,0,0,32.95202872914415,-96.81427765229994,Dallas
+75254,Dallas,TX,localservices,0,0,4,101,2,32,1,18,32.94824084032948,-96.81061750335806,Dallas
+75477,Roxton,TX,restaurants,0,0,0,0,0,0,0,0,33.54,-95.72,Roxton
+75477,Roxton,TX,shopping,0,0,0,0,0,0,0,0,33.54596,-95.72437,Roxton
+75477,Roxton,TX,localservices,0,0,0,0,0,0,0,0,33.54,-95.72,Roxton
+75490,Trenton,TX,restaurants,0,0,0,0,0,0,0,0,33.4462497842246,-96.3139885265156,Trenton
+75490,Trenton,TX,shopping,0,0,0,0,1,2,0,0,33.4402313,-96.32061,Trenton
+75490,Trenton,TX,localservices,0,0,0,0,0,0,0,0,33.4268740662842,-96.34974276782225,Trenton
+75762,Flint (Noonday),TX,restaurants,3,60,2,99,0,0,0,0,32.19856273597114,-95.40704099461925,Flint
+75762,Flint (Noonday),TX,shopping,0,0,1,4,0,0,1,3,32.195615875,-95.41319932500001,Flint
+75762,Flint (Noonday),TX,localservices,0,0,0,0,0,0,0,0,32.2171074894452,-95.3424138175297,Flint
+75840,Fairfield,TX,restaurants,13,230,3,185,0,0,0,0,31.71409495334932,-96.16562133747193,Fairfield
+75840,Fairfield,TX,shopping,0,0,1,8,0,0,0,0,31.723710054007267,-96.16675025510517,Fairfield
+75840,Fairfield,TX,localservices,0,0,0,0,0,0,0,0,31.71,-96.16,Fairfield
+75845,Groveton,TX,restaurants,0,0,0,0,0,0,0,0,31.0538469,-95.1236145,Groveton
+75845,Groveton,TX,shopping,1,2,0,0,0,0,0,0,31.056767492593202,-95.12657345738336,Groveton
+75845,Groveton,TX,localservices,0,0,0,0,0,0,0,0,31.05562,-95.12727,Groveton
+75850,Leona,TX,restaurants,1,39,1,56,0,0,0,0,31.153680523200947,-95.9683005981162,Leona
+75850,Leona,TX,shopping,0,0,0,0,0,0,0,0,31.15,-95.97,Leona
+75850,Leona,TX,localservices,0,0,0,0,0,0,0,0,31.15,-95.97,Leona
+75980,Zavalla,TX,restaurants,0,0,1,2,0,0,0,0,31.186292930590266,-94.35912261172511,Zavalla
+75980,Zavalla,TX,shopping,0,0,0,0,0,0,0,0,31.15,-94.41,Zavalla
+75980,Zavalla,TX,localservices,0,0,0,0,0,0,0,0,31.15,-94.41,Zavalla
+76011,Arlington,TX,restaurants,35,1656,33,4237,1,146,0,0,32.75505703972271,-97.08993299868584,Arlington
+76011,Arlington,TX,shopping,10,149,31,278,6,45,3,29,32.756185957810935,-97.09067832670398,Arlington
+76011,Arlington,TX,localservices,5,59,3,7,1,3,1,8,32.75302699553412,-97.09027318910253,Arlington
+76031,Cleburne,TX,restaurants,7,113,0,0,1,7,0,0,32.34777137118721,-97.38668159616113,Cleburne
+76031,Cleburne,TX,shopping,1,11,1,5,2,4,0,0,32.36221538603393,-97.37576650893857,Cleburne
+76031,Cleburne,TX,localservices,0,0,0,0,0,0,0,0,32.38044923489821,-97.35501655568908,Cleburne
+76040,Euless,TX,restaurants,22,925,7,756,0,0,0,0,32.83064644362463,-97.09941154128452,Euless
+76040,Euless,TX,shopping,3,31,10,108,1,5,0,0,32.83085890534161,-97.1021510115437,Euless
+76040,Euless,TX,localservices,1,5,1,2,1,5,0,0,32.82530604389238,-97.0986944991393,Euless
+76123,Fort Worth,TX,restaurants,8,189,0,0,0,0,0,0,32.622777109586025,-97.38986420566083,Fort Worth
+76123,Fort Worth,TX,shopping,1,7,2,6,0,0,0,0,32.62542288881064,-97.38070910697422,Fort Worth
+76123,Fort Worth,TX,localservices,0,0,0,0,1,5,0,0,32.620626522669085,-97.38266724449035,Fort Worth
+76133,Fort Worth,TX,restaurants,39,1133,12,634,1,10,0,0,32.65064418696321,-97.37092170143212,Fort Worth
+76133,Fort Worth,TX,shopping,9,39,15,105,2,4,1,10,32.6537000646651,-97.3760997527095,Fort Worth
+76133,Fort Worth,TX,localservices,2,9,3,17,1,3,0,0,32.657536783392366,-97.37941665319508,Fort Worth
+76247,Justin,TX,restaurants,7,233,4,203,0,0,0,0,33.08370270916511,-97.29342548128001,Justin
+76247,Justin,TX,shopping,0,0,5,41,0,0,0,0,33.091035464502816,-97.28923959847701,Justin
+76247,Justin,TX,localservices,0,0,0,0,0,0,0,0,33.06903624561794,-97.30132451346452,Justin
+76457,Hico,TX,restaurants,2,54,5,305,0,0,0,0,31.982603163879958,-98.03186979181763,Hico
+76457,Hico,TX,shopping,2,14,4,53,0,0,0,0,31.98177844822765,-98.0309829460037,Hico
+76457,Hico,TX,localservices,0,0,0,0,0,0,0,0,31.98,-98.02,Hico
+76466,Olden,TX,restaurants,0,0,0,0,0,0,0,0,32.42,-98.73,Olden
+76466,Olden,TX,shopping,0,0,0,0,0,0,0,0,32.42,-98.73,Olden
+76466,Olden,TX,localservices,0,0,0,0,0,0,0,0,32.42,-98.73,Olden
+76569,Rogers,TX,restaurants,1,1,0,0,0,0,0,0,30.9324019,-97.2282468,Rogers
+76569,Rogers,TX,shopping,0,0,1,1,0,0,0,0,30.93164,-97.2275,Rogers
+76569,Rogers,TX,localservices,0,0,0,0,0,0,0,0,30.928782,-97.256392,Rogers
+76627,Blum,TX,restaurants,1,5,0,0,0,0,0,0,32.1433038403314,-97.3994453288195,Blum
+76627,Blum,TX,shopping,0,0,0,0,1,14,0,0,32.1428298950195,-97.3974380493164,Blum
+76627,Blum,TX,localservices,0,0,0,0,1,14,0,0,32.1428298950195,-97.3974380493164,Blum
+76665,Meridian,TX,restaurants,4,56,4,102,1,3,0,0,31.909289431190423,-97.63985281048478,Meridian
+76665,Meridian,TX,shopping,0,0,0,0,0,0,0,0,31.917263906110133,-97.66163616291756,Meridian
+76665,Meridian,TX,localservices,0,0,0,0,0,0,0,0,31.9144517183304,-97.6635485887527,Meridian
+76701,Waco,TX,restaurants,18,1351,17,1956,2,305,0,0,31.55406474970358,-97.13339856533503,Waco
+76701,Waco,TX,shopping,5,34,16,228,1,4,0,0,31.552904085150132,-97.13500474112682,Waco
+76701,Waco,TX,localservices,0,0,3,25,0,0,0,0,31.548699021567973,-97.13970956162017,Waco
+77008,Houston,TX,restaurants,34,3931,42,12156,2,498,0,0,29.802677479627462,-95.41102319824375,Houston
+77008,Houston,TX,shopping,11,325,57,1301,10,108,2,10,29.800731554731048,-95.40726444582424,Houston
+77008,Houston,TX,localservices,7,148,4,142,2,19,1,13,29.801278240017588,-95.41023272366448,Houston
+77009,Houston,TX,restaurants,31,1884,24,3606,0,0,0,0,29.795916984681323,-95.37155807768198,Houston
+77009,Houston,TX,shopping,8,125,12,155,3,16,2,20,29.793794050084312,-95.37164253807413,Houston
+77009,Houston,TX,localservices,2,134,1,20,0,0,1,13,29.79294591312747,-95.36980831778482,Houston
+77059,Houston,TX,restaurants,3,69,2,97,0,0,0,0,29.61264258795808,-95.13113079756347,Houston
+77059,Houston,TX,shopping,0,0,3,10,1,7,0,0,29.60942616895257,-95.12770736610358,Houston
+77059,Houston,TX,localservices,0,0,0,0,0,0,0,0,29.6023043437236,-95.11430313290754,Houston
+77090,Houston,TX,restaurants,34,945,37,3448,0,0,0,0,30.00678010336175,-95.43822580948347,Houston
+77090,Houston,TX,shopping,9,54,36,360,5,62,1,4,30.00797778063701,-95.44081558186112,Houston
+77090,Houston,TX,localservices,4,23,3,18,0,0,0,0,30.008738761733373,-95.4438208726874,Houston
+77316,Montgomery,TX,restaurants,2,21,3,195,0,0,0,0,30.34190867881387,-95.65153761249552,Montgomery
+77316,Montgomery,TX,shopping,2,6,1,3,0,0,0,0,30.3310834321228,-95.60173334463457,Montgomery
+77316,Montgomery,TX,localservices,1,3,0,0,0,0,0,0,30.28994642497192,-95.5774194024884,Montgomery
+77334,Dodge,TX,restaurants,0,0,0,0,0,0,0,0,30.78,-95.37,Dodge
+77334,Dodge,TX,shopping,0,0,0,0,0,0,0,0,30.78,-95.37,Dodge
+77334,Dodge,TX,localservices,0,0,0,0,0,0,0,0,30.78,-95.37,Dodge
+77401,Bellaire,TX,restaurants,14,1178,20,2849,1,154,0,0,29.706614332639358,-95.46962975968441,Bellaire
+77401,Bellaire,TX,shopping,8,33,11,129,2,8,3,19,29.709029513937324,-95.47472787714983,Bellaire
+77401,Bellaire,TX,localservices,2,15,5,26,0,0,1,3,29.708239396727187,-95.47424125362438,Bellaire
+77433,Cypress,TX,restaurants,13,910,23,2625,0,0,0,0,29.935616864317595,-95.69622654100642,Cypress
+77433,Cypress,TX,shopping,2,16,15,209,1,6,0,0,29.942164009155178,-95.69286293856085,Cypress
+77433,Cypress,TX,localservices,3,19,3,28,1,6,0,0,29.941761100936215,-95.7022378951356,Cypress
+77476,Simonton,TX,restaurants,0,0,1,22,0,0,0,0,29.6771540369468,-96.0040513377563,Simonton
+77476,Simonton,TX,shopping,0,0,1,49,0,0,0,0,29.68452,-95.99006,Simonton
+77476,Simonton,TX,localservices,0,0,0,0,0,0,0,0,29.6741788077103,-95.9776595971863,Simonton
+77510,Santa Fe,TX,restaurants,11,105,4,137,0,0,0,0,29.378654387663715,-95.09131239131318,Santa Fe
+77510,Santa Fe,TX,shopping,4,11,2,6,0,0,1,5,29.376683946196465,-95.09391940008125,Santa Fe
+77510,Santa Fe,TX,localservices,0,0,0,0,0,0,0,0,29.37816180040761,-95.08972369702167,Santa Fe
+77541,Freeport,TX,restaurants,18,307,15,716,0,0,0,0,28.965614392746108,-95.34130055058712,Freeport
+77541,Freeport,TX,shopping,3,14,0,0,0,0,0,0,28.95625941791991,-95.32180572529296,Freeport
+77541,Freeport,TX,localservices,0,0,0,0,0,0,0,0,28.95,-95.36,Freeport
+77547,Galena Park,TX,restaurants,7,48,0,0,0,0,0,0,29.733867328246454,-95.23922780124684,Galena Park
+77547,Galena Park,TX,shopping,0,0,0,0,0,0,0,0,29.74,-95.23,Galena Park
+77547,Galena Park,TX,localservices,0,0,0,0,0,0,0,0,29.684478849999998,-95.22952695000001,Galena Park
+77612,Buna,TX,restaurants,5,8,0,0,0,0,0,0,30.448178087779286,-93.96672358180024,Buna
+77612,Buna,TX,shopping,0,0,1,1,0,0,0,0,30.427662092802052,-93.95661036923934,Buna
+77612,Buna,TX,localservices,0,0,0,0,0,0,0,0,30.4218801856041,-93.9510997384787,Buna
+77640,Port Arthur,TX,restaurants,10,129,11,283,0,0,0,0,29.923353391593313,-93.97785829623614,Port Arthur
+77640,Port Arthur,TX,shopping,2,10,5,12,3,9,1,3,29.934118613460047,-93.9944332690339,Port Arthur
+77640,Port Arthur,TX,localservices,0,0,1,3,0,0,0,0,29.906568347226198,-93.97183478396528,Port Arthur
+78009,Castroville,TX,restaurants,6,88,9,372,0,0,0,0,29.356040660116047,-98.87648380851046,Castroville
+78009,Castroville,TX,shopping,0,0,8,24,0,0,0,0,29.355953386596024,-98.86693996565118,Castroville
+78009,Castroville,TX,localservices,0,0,0,0,0,0,0,0,29.352197341836114,-98.87449161700809,Castroville
+78010,Center Point,TX,restaurants,2,14,2,70,0,0,0,0,29.93751968097856,-99.05315048843974,Center Point
+78010,Center Point,TX,shopping,0,0,0,0,0,0,0,0,29.93,-99.03,Center Point
+78010,Center Point,TX,localservices,0,0,0,0,0,0,0,0,29.93,-99.03,Center Point
+78056,Mico,TX,restaurants,0,0,1,2,0,0,0,0,29.550890517385568,-98.9126742583495,Mico
+78056,Mico,TX,shopping,0,0,0,0,0,0,0,0,29.53,-98.93,Mico
+78056,Mico,TX,localservices,0,0,0,0,0,0,0,0,29.53,-98.93,Mico
+78066,Rio Medina,TX,restaurants,0,0,0,0,0,0,0,0,29.5,-98.85,Rio Medina
+78066,Rio Medina,TX,shopping,0,0,0,0,0,0,0,0,29.5,-98.85,Rio Medina
+78066,Rio Medina,TX,localservices,0,0,0,0,0,0,0,0,29.5,-98.85,Rio Medina
+78104,Beeville,TX,restaurants,0,0,0,0,0,0,0,0,28.52,-97.76,Beeville
+78104,Beeville,TX,shopping,0,0,0,0,0,0,0,0,28.52,-97.76,Beeville
+78104,Beeville,TX,localservices,0,0,0,0,0,0,0,0,28.52,-97.76,Beeville
+78116,Gillett,TX,restaurants,0,0,0,0,0,0,0,0,29.13,-97.8,Gillett
+78116,Gillett,TX,shopping,0,0,0,0,0,0,0,0,29.13,-97.8,Gillett
+78116,Gillett,TX,localservices,0,0,0,0,0,0,0,0,29.13,-97.8,Gillett
+78160,Stockdale,TX,restaurants,2,14,1,6,0,0,0,0,29.23273680357196,-97.95814111054027,Stockdale
+78160,Stockdale,TX,shopping,0,0,0,0,0,0,0,0,29.283963534973502,-97.9607409679991,Stockdale
+78160,Stockdale,TX,localservices,0,0,0,0,0,0,0,0,29.23,-97.96,Stockdale
+78229,San Antonio,TX,restaurants,49,4032,26,3331,1,148,0,0,29.50715362217621,-98.56973213528352,San Antonio
+78229,San Antonio,TX,shopping,8,95,33,524,4,64,3,33,29.503698809625995,-98.5719262770599,San Antonio
+78229,San Antonio,TX,localservices,2,43,2,6,1,5,0,0,29.508770358637655,-98.5720025993642,San Antonio
+78254,San Antonio,TX,restaurants,11,263,10,1331,0,0,0,0,29.520039113293862,-98.695719357643,San Antonio
+78254,San Antonio,TX,shopping,8,26,5,47,1,6,0,0,29.520815857698402,-98.6989405161222,San Antonio
+78254,San Antonio,TX,localservices,1,2,1,28,0,0,0,0,29.522753097366127,-98.69338560847872,San Antonio
+78256,San Antonio,TX,restaurants,5,117,16,3951,6,797,0,0,29.597072901733483,-98.61390977054533,San Antonio
+78256,San Antonio,TX,shopping,3,15,13,82,17,160,4,69,29.594291313841584,-98.61694782237832,San Antonio
+78256,San Antonio,TX,localservices,1,2,0,0,1,10,1,3,29.59979372368198,-98.61891190909532,San Antonio
+78335,Aransas Pass,TX,restaurants,0,0,0,0,0,0,0,0,27.87,-97.09,Aransas Pass
+78335,Aransas Pass,TX,shopping,0,0,0,0,0,0,0,0,27.87,-97.09,Aransas Pass
+78335,Aransas Pass,TX,localservices,0,0,0,0,0,0,0,0,27.87,-97.09,Aransas Pass
+78341,Benavides,TX,restaurants,0,0,0,0,0,0,0,0,27.63,-98.5,Benavides
+78341,Benavides,TX,shopping,0,0,0,0,0,0,0,0,27.63,-98.5,Benavides
+78341,Benavides,TX,localservices,0,0,0,0,0,0,0,0,27.63,-98.5,Benavides
+78606,Blanco,TX,restaurants,7,271,5,472,1,5,0,0,30.092325369415406,-98.41923680035664,Blanco
+78606,Blanco,TX,shopping,3,12,6,20,0,0,0,0,30.107500009421525,-98.39923543730075,Blanco
+78606,Blanco,TX,localservices,0,0,0,0,0,0,0,0,30.098123250000004,-98.42246184999999,Blanco
+78626,Georgetown,TX,restaurants,29,1313,22,4234,0,0,0,0,30.640634679728617,-97.6796655158647,Georgetown
+78626,Georgetown,TX,shopping,8,37,27,393,10,61,3,29,30.637775797289358,-97.67723200865743,Georgetown
+78626,Georgetown,TX,localservices,1,26,3,47,1,5,1,6,30.63877186187929,-97.67059605237168,Georgetown
+78757,Austin,TX,restaurants,41,7624,29,9322,2,1623,0,0,30.35615199988664,-97.7331433721558,Austin
+78757,Austin,TX,shopping,12,340,50,2720,16,635,1,17,30.35564915275586,-97.73325377703542,Austin
+78757,Austin,TX,localservices,6,501,10,372,5,173,0,0,30.353950459900556,-97.73191002892258,Austin
+78877,Quemado,TX,restaurants,0,0,0,0,0,0,0,0,28.95,-100.63,Quemado
+78877,Quemado,TX,shopping,0,0,0,0,0,0,0,0,28.95,-100.63,Quemado
+78877,Quemado,TX,localservices,0,0,0,0,0,0,0,0,28.95,-100.63,Quemado
+79001,Adrian,TX,restaurants,1,57,0,0,0,0,0,0,35.2703008252638,-102.66980657006,Adrian
+79001,Adrian,TX,shopping,1,57,0,0,0,0,0,0,35.2703008252638,-102.66980657006,Adrian
+79001,Adrian,TX,localservices,0,0,0,0,0,0,0,0,35.27,-102.66,Adrian
+79036,Fritch,TX,restaurants,1,4,2,7,0,0,0,0,35.64070846898275,-101.6009982514815,Fritch
+79036,Fritch,TX,shopping,0,0,0,0,0,0,0,0,35.64,-101.59,Fritch
+79036,Fritch,TX,localservices,0,0,0,0,0,0,0,0,35.64,-101.59,Fritch
+79261,Turkey,TX,restaurants,1,13,0,0,0,0,0,0,34.392695,-100.897226,Turkey
+79261,Turkey,TX,shopping,0,0,0,0,0,0,0,0,34.39,-100.89,Turkey
+79261,Turkey,TX,localservices,0,0,0,0,0,0,0,0,34.39,-100.89,Turkey
+79359,Seagraves,TX,restaurants,1,3,0,0,0,0,0,0,32.9399516,-102.5625503,Seagraves
+79359,Seagraves,TX,shopping,0,0,0,0,0,0,0,0,32.94,-102.56,Seagraves
+79359,Seagraves,TX,localservices,0,0,0,0,0,0,0,0,32.94,-102.56,Seagraves
+79567,Winters,TX,restaurants,1,4,1,3,0,0,0,0,31.96008375,-99.9627951,Winters
+79567,Winters,TX,shopping,0,0,0,0,0,0,0,0,31.96,-99.93,Winters
+79567,Winters,TX,localservices,0,0,0,0,0,0,0,0,31.96,-99.93,Winters
+79602,Abilene,TX,restaurants,9,159,6,330,1,144,0,0,32.414978943005735,-99.7220633379586,Abilene
+79602,Abilene,TX,shopping,2,4,8,50,4,20,0,0,32.41270410941157,-99.73253153058293,Abilene
+79602,Abilene,TX,localservices,1,2,3,13,0,0,0,0,32.41828361478534,-99.73302792638832,Abilene
+79849,San Elizario,TX,restaurants,0,0,1,3,0,0,0,0,31.59855851085012,-106.274395459391,San Elizario
+79849,San Elizario,TX,shopping,0,0,0,0,0,0,0,0,31.57006,-106.26788,San Elizario
+79849,San Elizario,TX,localservices,0,0,0,0,0,0,0,0,31.57,-106.26,San Elizario
+79904,El Paso,TX,restaurants,22,509,9,396,1,8,0,0,31.843180098986238,-106.44125330669257,El Paso
+79904,El Paso,TX,shopping,5,26,5,22,3,7,0,0,31.84991316982972,-106.43762039076779,El Paso
+79904,El Paso,TX,localservices,1,1,0,0,0,0,0,0,31.86132233970713,-106.43797426449416,El Paso
+84022,Dugway,UT,restaurants,0,0,0,0,0,0,0,0,40.39,-112.63,Dugway
+84022,Dugway,UT,shopping,0,0,0,0,0,0,0,0,40.39,-112.63,Dugway
+84022,Dugway,UT,localservices,0,0,0,0,0,0,0,0,40.39,-112.63,Dugway
+84062,Pleasant Grove,UT,restaurants,17,1175,5,296,0,0,0,0,40.36111151931792,-111.74607842752242,Pleasant Grove
+84062,Pleasant Grove,UT,shopping,5,16,12,85,1,3,2,20,40.3627668226567,-111.75064640368394,Pleasant Grove
+84062,Pleasant Grove,UT,localservices,0,0,0,0,0,0,0,0,40.36126990790986,-111.7437896498624,Pleasant Grove
+84119,West Valley City,UT,restaurants,48,2296,30,2324,0,0,0,0,40.698629603903015,-111.94877726103924,Salt Lake City
+84119,West Valley City,UT,shopping,11,125,27,236,8,30,1,4,40.69956447734275,-111.95018335523395,Salt Lake City
+84119,West Valley City,UT,localservices,2,3,5,35,1,4,0,0,40.70615691586416,-111.94533569684198,Salt Lake City
+84324,Mantua,UT,restaurants,0,0,0,0,0,0,0,0,41.49,-111.95,Mantua
+84324,Mantua,UT,shopping,0,0,0,0,0,0,0,0,41.49,-111.95,Mantua
+84324,Mantua,UT,localservices,0,0,0,0,0,0,0,0,41.49,-111.95,Mantua
+84627,Ephraim,UT,restaurants,6,77,6,95,0,0,0,0,39.358923876951295,-111.58690780950529,Ephraim
+84627,Ephraim,UT,shopping,1,1,0,0,0,0,0,0,39.366458317991665,-111.58818811548234,Ephraim
+84627,Ephraim,UT,localservices,0,0,0,0,0,0,0,0,39.3592,-111.58688,Ephraim
+84655,Santaquin,UT,restaurants,5,81,2,55,0,0,0,0,39.972687147625045,-111.78415325088577,Santaquin
+84655,Santaquin,UT,shopping,0,0,0,0,0,0,0,0,39.99,-111.81,Santaquin
+84655,Santaquin,UT,localservices,0,0,0,0,0,0,0,0,39.98602,-111.76393,Santaquin
+84739,Joseph,UT,restaurants,0,0,0,0,0,0,0,0,38.63,-112.21,Joseph
+84739,Joseph,UT,shopping,0,0,0,0,0,0,0,0,38.63,-112.21,Joseph
+84739,Joseph,UT,localservices,0,0,0,0,0,0,0,0,38.63,-112.21,Joseph
+84761,Parowan,UT,restaurants,6,198,2,87,0,0,0,0,37.845672366640905,-112.83264052301617,Parowan
+84761,Parowan,UT,shopping,0,0,1,2,0,0,0,0,37.84252134791688,-112.8272136662245,Parowan
+84761,Parowan,UT,localservices,0,0,0,0,0,0,0,0,37.91,-112.85,Parowan
+84775,Torrey,UT,restaurants,0,0,7,645,1,175,0,0,38.304451193713334,-111.4115643718511,Torrey
+84775,Torrey,UT,shopping,0,0,0,0,0,0,0,0,38.2893567113144,-111.40986203240418,Torrey
+84775,Torrey,UT,localservices,0,0,0,0,0,0,0,0,37.93,-110.95,Torrey
+05048,Hartland,VT,restaurants,0,0,2,100,0,0,0,0,43.53943995,-72.39962215,Hartland
+05048,Hartland,VT,shopping,0,0,0,0,0,0,0,0,43.55,-72.4,Hartland
+05048,Hartland,VT,localservices,0,0,0,0,0,0,0,0,43.53835,-72.44187,Hartland
+05081,Wells River,VT,restaurants,0,0,2,77,0,0,0,0,44.15586593940936,-72.0612450490359,Wells River
+05081,Wells River,VT,shopping,0,0,0,0,0,0,0,0,44.15,-72.06,Wells River
+05081,Wells River,VT,localservices,0,0,0,0,0,0,0,0,44.15,-72.06,Wells River
+05667,Plainfield,VT,restaurants,1,23,1,44,0,0,0,0,44.27810221801757,-72.42401727180989,Plainfield
+05667,Plainfield,VT,shopping,1,3,0,0,0,0,1,1,44.27798000000001,-72.42391096666667,Plainfield
+05667,Plainfield,VT,localservices,0,0,0,0,0,0,0,0,44.28,-72.43,Plainfield
+05770,Shoreham,VT,restaurants,1,5,0,0,1,20,0,0,43.9141130737257,-73.31168709484405,Shoreham
+05770,Shoreham,VT,shopping,0,0,0,0,0,0,0,0,43.8859,-73.33279,Shoreham
+05770,Shoreham,VT,localservices,0,0,0,0,0,0,0,0,43.9,-73.32,Shoreham
+05825,Coventry,VT,restaurants,1,9,0,0,0,0,0,0,44.8663213735313,-72.261755695764,Coventry
+05825,Coventry,VT,shopping,0,0,0,0,0,0,0,0,44.86,-72.25,Coventry
+05825,Coventry,VT,localservices,0,0,0,0,0,0,0,0,44.86,-72.25,Coventry
+20136,Bristow,VA,restaurants,7,398,10,915,0,0,0,0,38.74154537979088,-77.56078052638267,Bristow
+20136,Bristow,VA,shopping,0,0,8,166,2,11,0,0,38.748974103135524,-77.56003848528326,Bristow
+20136,Bristow,VA,localservices,0,0,2,44,1,10,0,0,38.748079743794506,-77.56799050723956,Bristow
+20141,Round Hill,VA,restaurants,1,42,0,0,0,0,0,0,39.1335956761963,-77.76548587700195,Round Hill
+20141,Round Hill,VA,shopping,1,3,0,0,3,28,0,0,39.13446750000001,-77.77194,Round Hill
+20141,Round Hill,VA,localservices,0,0,0,0,0,0,0,0,39.12882,-77.76846,Round Hill
+20152,South Riding,VA,restaurants,18,892,16,2047,1,23,0,0,38.923689360494095,-77.51397669809948,Chantilly
+20152,South Riding,VA,shopping,3,32,12,251,3,43,0,0,38.922212113097636,-77.508494240379,Chantilly
+20152,South Riding,VA,localservices,1,13,2,19,0,0,0,0,38.912667234057444,-77.51496316953974,Chantilly
+20180,Lovettsville,VA,restaurants,2,47,5,347,0,0,1,143,39.274478270452995,-77.6291916798146,Lovettsville
+20180,Lovettsville,VA,shopping,1,1,0,0,0,0,1,10,39.26773080952964,-77.6482308561198,Lovettsville
+20180,Lovettsville,VA,localservices,0,0,0,0,0,0,0,0,39.268298568312815,-77.6285766721415,Lovettsville
+20186,Warrenton,VA,restaurants,27,892,27,1992,2,249,0,0,38.734217788870566,-78.24397216270114,Warrenton
+20186,Warrenton,VA,shopping,12,64,44,323,8,46,2,15,38.71902448255171,-77.79910654880314,Warrenton
+20186,Warrenton,VA,localservices,4,8,8,51,0,0,0,0,38.71099768957692,-77.80101089161731,Warrenton
+22151,Springfield,VA,restaurants,12,698,7,766,0,0,0,0,38.801961338592086,-77.20058873446116,Springfield
+22151,Springfield,VA,shopping,1,9,12,151,1,1,0,0,38.80472085253789,-77.21056193203711,Springfield
+22151,Springfield,VA,localservices,0,0,3,45,1,1,0,0,38.80192841036431,-77.19918424380923,Springfield
+22304,Alexandria,VA,restaurants,24,1811,38,4739,0,0,0,0,38.80950601705722,-77.12569365440852,Alexandria
+22304,Alexandria,VA,shopping,7,206,30,991,9,161,0,0,38.80917381020892,-77.12402080872624,Alexandria
+22304,Alexandria,VA,localservices,4,38,8,87,4,39,0,0,38.81023134263728,-77.1222419323842,Alexandria
+22406,Fredericksburg,VA,restaurants,23,572,13,425,0,0,1,42,38.3528286215796,-77.50783970812562,Fredericksburg
+22406,Fredericksburg,VA,shopping,2,6,4,28,0,0,0,0,38.353411490214285,-77.50463455039836,Fredericksburg
+22406,Fredericksburg,VA,localservices,1,3,2,9,1,3,0,0,38.357727811669974,-77.51207554931548,Fredericksburg
+22482,Kilmarnock,VA,restaurants,4,29,12,471,0,0,0,0,37.71895119029171,-76.38321189889426,Kilmarnock
+22482,Kilmarnock,VA,shopping,2,3,5,5,2,7,1,3,37.715515632845374,-76.38150768790238,Kilmarnock
+22482,Kilmarnock,VA,localservices,0,0,1,1,1,3,0,0,37.71164127268505,-76.38271760567203,Kilmarnock
+22603,Winchester,VA,restaurants,13,117,13,437,0,0,2,12,39.209016690187774,-78.16247069715183,Winchester
+22603,Winchester,VA,shopping,1,6,9,59,1,3,0,0,39.22095240273067,-78.16016534110179,Winchester
+22603,Winchester,VA,localservices,2,5,2,16,1,3,0,0,39.21636840696332,-78.17236636938736,Winchester
+22831,Hinton,VA,restaurants,0,0,0,0,0,0,0,0,38.48,-79.0,Hinton
+22831,Hinton,VA,shopping,0,0,0,0,0,0,0,0,38.48,-79.0,Hinton
+22831,Hinton,VA,localservices,0,0,0,0,0,0,0,0,38.48,-79.0,Hinton
+22952,Lyndhurst,VA,restaurants,0,0,0,0,0,0,0,0,37.96,-78.96,Lyndhurst
+22952,Lyndhurst,VA,shopping,0,0,0,0,0,0,0,0,37.96,-78.96,Lyndhurst
+22952,Lyndhurst,VA,localservices,0,0,0,0,0,0,0,0,38.03277425,-78.92881904999999,Lyndhurst
+23503,Norfolk,VA,restaurants,17,625,13,729,0,0,0,0,36.949425628977686,-76.2545721826787,Norfolk
+23503,Norfolk,VA,shopping,3,11,3,37,0,0,0,0,36.946488884549666,-76.2534190303413,Norfolk
+23503,Norfolk,VA,localservices,1,9,1,1,0,0,0,0,36.95003866616554,-76.25644438830496,Norfolk
+23663,Hampton,VA,restaurants,12,208,8,918,1,5,0,0,37.03392011868241,-76.3147195288518,Hampton
+23663,Hampton,VA,shopping,2,2,4,17,1,3,0,0,37.029769018830635,-76.31554650338879,Hampton
+23663,Hampton,VA,localservices,1,2,0,0,0,0,0,0,37.03587842818495,-76.31231185229375,Hampton
+23833,Church Road,VA,restaurants,0,0,0,0,0,0,0,0,37.15,-77.63,Church Road
+23833,Church Road,VA,shopping,0,0,0,0,0,0,0,0,37.15,-77.63,Church Road
+23833,Church Road,VA,localservices,0,0,0,0,0,0,0,0,37.15,-77.63,Church Road
+23834,Colonial Heights,VA,restaurants,34,847,32,1337,1,8,0,0,37.257955953187114,-77.39956538740394,Colonial Heights
+23834,Colonial Heights,VA,shopping,16,42,35,200,12,68,3,8,37.254074975976394,-75.81705965435144,Colonial Heights
+23834,Colonial Heights,VA,localservices,2,6,2,9,0,0,0,0,37.25885990982705,-77.40532474922823,Colonial Heights
+23894,Wilsons,VA,restaurants,0,0,0,0,0,0,0,0,37.14,-77.85,Wilsons
+23894,Wilsons,VA,shopping,0,0,0,0,0,0,0,0,37.14,-77.85,Wilsons
+23894,Wilsons,VA,localservices,0,0,0,0,0,0,0,0,37.14,-77.85,Wilsons
+23963,Red House,VA,restaurants,0,0,0,0,0,0,0,0,37.18,-78.8,Red House
+23963,Red House,VA,shopping,0,0,0,0,0,0,0,0,37.18,-78.8,Red House
+23963,Red House,VA,localservices,0,0,0,0,0,0,0,0,37.18,-78.8,Red House
+23964,Red Oak,VA,restaurants,0,0,0,0,0,0,0,0,36.76,-78.63,Red Oak
+23964,Red Oak,VA,shopping,0,0,0,0,0,0,0,0,36.76,-78.63,Red Oak
+23964,Red Oak,VA,localservices,0,0,0,0,0,0,0,0,36.76,-78.63,Red Oak
+23967,Saxe,VA,restaurants,0,0,0,0,0,0,0,0,36.93,-78.66,Saxe
+23967,Saxe,VA,shopping,0,0,0,0,0,0,0,0,36.93,-78.66,Saxe
+23967,Saxe,VA,localservices,0,0,0,0,0,0,0,0,36.93,-78.66,Saxe
+24011,Roanoke,VA,restaurants,12,708,24,1913,2,230,1,85,37.27149538505969,-79.94004440312791,Roanoke
+24011,Roanoke,VA,shopping,1,3,6,32,2,11,1,3,37.271056055078745,-79.93986437263122,Roanoke
+24011,Roanoke,VA,localservices,0,0,0,0,0,0,0,0,37.271698443798556,-79.9399445682611,Roanoke
+24082,Critz,VA,restaurants,0,0,0,0,0,0,0,0,36.62,-80.11,Critz
+24082,Critz,VA,shopping,0,0,0,0,0,0,0,0,36.62,-80.11,Critz
+24082,Critz,VA,localservices,0,0,0,0,0,0,0,0,36.62,-80.11,Critz
+24112,Martinsville,VA,restaurants,19,182,11,181,0,0,0,0,36.68461927331968,-79.87059021959432,Martinsville
+24112,Martinsville,VA,shopping,1,2,3,3,0,0,0,0,36.693033091834835,-79.88043449656315,Martinsville
+24112,Martinsville,VA,localservices,0,0,0,0,0,0,0,0,36.6834433797712,-79.86547542427456,Martinsville
+24137,Penhook,VA,restaurants,0,0,1,4,0,0,0,0,36.97081068648856,-79.62814674231886,Penhook
+24137,Penhook,VA,shopping,0,0,0,0,0,0,0,0,37.0024,-79.619403,Penhook
+24137,Penhook,VA,localservices,0,0,0,0,0,0,0,0,36.98,-79.63,Penhook
+24161,Sandy Level,VA,restaurants,0,0,0,0,0,0,0,0,37.0,-79.55,Sandy Level
+24161,Sandy Level,VA,shopping,0,0,0,0,0,0,0,0,37.0,-79.55,Sandy Level
+24161,Sandy Level,VA,localservices,0,0,0,0,0,0,0,0,37.0,-79.55,Sandy Level
+24171,Stuart,VA,restaurants,6,27,3,32,0,0,0,0,36.64598983128797,-80.25166515818798,Stuart
+24171,Stuart,VA,shopping,0,0,2,3,0,0,0,0,36.62420562184565,-80.23889228806578,Stuart
+24171,Stuart,VA,localservices,0,0,1,2,0,0,0,0,36.673157632384935,-80.25446885539246,Stuart
+24216,Appalachia,VA,restaurants,0,0,0,0,0,0,0,0,36.9,-82.78,Appalachia
+24216,Appalachia,VA,shopping,0,0,0,0,0,0,0,0,36.9,-82.78,Appalachia
+24216,Appalachia,VA,localservices,0,0,0,0,0,0,0,0,36.9,-82.78,Appalachia
+24239,Davenport,VA,restaurants,0,0,0,0,0,0,0,0,37.12,-82.15,Davenport
+24239,Davenport,VA,shopping,0,0,0,0,0,0,0,0,37.12,-82.15,Davenport
+24239,Davenport,VA,localservices,0,0,0,0,0,0,0,0,37.12,-82.15,Davenport
+24474,Selma,VA,restaurants,0,0,0,0,0,0,0,0,37.81,-79.85,Selma
+24474,Selma,VA,shopping,0,0,0,0,0,0,0,0,37.81,-79.85,Selma
+24474,Selma,VA,localservices,0,0,0,0,0,0,0,0,37.81,-79.85,Selma
+24549,Dry Fork,VA,restaurants,0,0,0,0,0,0,0,0,36.75,-79.41,Dry Fork
+24549,Dry Fork,VA,shopping,0,0,0,0,0,0,0,0,36.75,-79.41,Dry Fork
+24549,Dry Fork,VA,localservices,0,0,0,0,0,0,0,0,36.75,-79.41,Dry Fork
+24572,Madison Heights,VA,restaurants,16,140,2,6,1,2,0,0,37.448346644889,-79.12044423193932,Madison Heights
+24572,Madison Heights,VA,shopping,3,5,1,2,0,0,0,0,37.46130345656474,-79.11714970668292,Madison Heights
+24572,Madison Heights,VA,localservices,0,0,0,0,0,0,0,0,37.45296452,-79.11505764,Madison Heights
+98024,Fall City,WA,restaurants,3,167,4,514,0,0,0,0,47.56643829927088,-121.88751383078139,Fall City
+98024,Fall City,WA,shopping,1,13,3,20,1,28,0,0,47.56204998363565,-121.88071237546916,Fall City
+98024,Fall City,WA,localservices,0,0,0,0,0,0,0,0,47.562327536051434,-121.892393485677,Fall City
+98027,Issaquah,WA,restaurants,17,1619,45,9693,3,1423,0,0,47.53823032560608,-122.04249553763442,Issaquah
+98027,Issaquah,WA,shopping,4,40,30,607,11,207,3,73,47.533457252184625,-122.03776785155715,Issaquah
+98027,Issaquah,WA,localservices,0,0,10,196,0,0,0,0,47.5344401470894,-122.04047021711565,Issaquah
+98031,Kent,WA,restaurants,20,1465,22,2501,0,0,0,0,47.3981827778927,-122.20273286650784,Kent
+98031,Kent,WA,shopping,5,79,8,147,2,26,3,11,47.39903613773904,-122.20455749372549,Kent
+98031,Kent,WA,localservices,1,3,1,5,0,0,1,10,47.401621383412454,-122.20455859669228,Kent
+98057,Renton,WA,restaurants,43,4503,26,7198,1,863,0,0,47.47800874888449,-122.21308406488927,Renton
+98057,Renton,WA,shopping,11,363,40,842,4,66,2,25,47.478951402889656,-122.21148363349012,Renton
+98057,Renton,WA,localservices,1,16,5,144,2,25,1,12,47.476607157816346,-122.213812591062,Renton
+98101,Seattle,WA,restaurants,10,1972,5,587,1,493,0,0,47.606594829180075,-122.33518192250028,Seattle
+98101,Seattle,WA,shopping,2,77,9,160,8,141,5,97,47.60638888763436,-122.33655057847587,Seattle
+98101,Seattle,WA,localservices,0,0,0,0,0,0,0,0,47.60951335572734,-122.33457426874608,Seattle
+98118,Seattle,WA,restaurants,35,2836,45,8540,1,201,0,0,47.5478318636108,-122.28081625750191,Seattle
+98118,Seattle,WA,shopping,11,230,28,526,2,22,1,10,47.54691028395895,-122.28056139947627,Seattle
+98118,Seattle,WA,localservices,6,187,2,12,1,6,0,0,47.54613257718184,-122.27925926024946,Seattle
+98251,Gold Bar,WA,restaurants,3,318,3,230,0,0,0,0,47.8494875908393,-121.6848913928287,Gold Bar
+98251,Gold Bar,WA,shopping,0,0,1,1,1,15,0,0,47.847730342331,-121.67382604052733,Gold Bar
+98251,Gold Bar,WA,localservices,0,0,0,0,0,0,0,0,47.85385,-121.69491,Gold Bar
+98321,Buckley,WA,restaurants,3,195,3,102,0,0,0,0,47.161005573186756,-122.04670068561134,Buckley
+98321,Buckley,WA,shopping,1,1,1,2,1,1,0,0,47.15553512840977,-122.06613128436621,Buckley
+98321,Buckley,WA,localservices,0,0,0,0,0,0,0,0,47.16182944297222,-122.06968828396862,Buckley
+98338,Graham,WA,restaurants,7,381,7,559,0,0,0,0,47.05580823317101,-122.2970725599324,Graham
+98338,Graham,WA,shopping,1,3,2,11,2,6,0,0,47.05164339614324,-122.29967053111987,Graham
+98338,Graham,WA,localservices,0,0,1,5,0,0,0,0,47.05754352159534,-122.30235920474975,Graham
+98355,Mineral,WA,restaurants,0,0,0,0,0,0,0,0,46.71,-122.11,Mineral
+98355,Mineral,WA,shopping,0,0,0,0,0,0,0,0,46.71,-122.11,Mineral
+98355,Mineral,WA,localservices,0,0,0,0,0,0,0,0,46.71,-122.11,Mineral
+98359,Olalla,WA,restaurants,0,0,1,17,0,0,0,0,47.4218899656378,-122.541663832963,Olalla
+98359,Olalla,WA,shopping,0,0,1,1,0,0,0,0,47.426964999999996,-122.57243500000001,Olalla
+98359,Olalla,WA,localservices,0,0,0,0,0,0,0,0,47.43,-122.57,Olalla
+98391,Bonney Lake,WA,restaurants,17,616,22,2191,0,0,0,0,47.17080636418776,-122.15847293909889,Bonney Lake
+98391,Bonney Lake,WA,shopping,5,48,23,255,2,17,0,0,47.17010295158334,-122.16209658789924,Bonney Lake
+98391,Bonney Lake,WA,localservices,2,9,3,13,1,3,0,0,47.181490692210225,-122.17323218220703,Bonney Lake
+98409,Tacoma,WA,restaurants,32,2215,35,6042,0,0,0,0,47.21631784481611,-122.47494842687139,Tacoma
+98409,Tacoma,WA,shopping,4,8,40,692,21,435,1,7,47.21625789861147,-122.46909034872579,Tacoma
+98409,Tacoma,WA,localservices,2,35,5,101,4,198,1,3,47.21620280825229,-122.47558536284934,Tacoma
+98418,Tacoma,WA,restaurants,17,1093,4,610,0,0,0,0,47.22291722530181,-122.4396461856008,Tacoma
+98418,Tacoma,WA,shopping,2,13,6,76,1,1,0,0,47.22271570015694,-122.44106022384908,Tacoma
+98418,Tacoma,WA,localservices,0,0,1,7,2,11,0,0,47.223682899720984,-122.44115974372214,Tacoma
+98512,Olympia,WA,restaurants,9,357,4,478,0,0,0,0,46.98563472781099,-122.94094235971812,Olympia
+98512,Olympia,WA,shopping,3,40,13,181,1,6,0,0,46.993461393033414,-122.94095320807097,Olympia
+98512,Olympia,WA,localservices,0,0,2,10,0,0,0,0,46.99793991934712,-122.94090360981804,Olympia
+98544,Galvin,WA,restaurants,0,0,0,0,0,0,0,0,46.74,-123.03,Galvin
+98544,Galvin,WA,shopping,0,0,0,0,0,0,0,0,46.74,-123.03,Galvin
+98544,Galvin,WA,localservices,0,0,0,0,0,0,0,0,46.74185,-123.02605,Galvin
+98584,Shelton,WA,restaurants,23,659,19,849,1,22,0,0,47.21663828494644,-123.1027054585797,Shelton
+98584,Shelton,WA,shopping,8,35,10,73,3,8,1,5,47.030149081543435,-122.94722243930553,Shelton
+98584,Shelton,WA,localservices,1,3,2,16,1,7,2,10,47.21503846492103,-123.10679213559963,Shelton
+98605,Bingen,WA,restaurants,3,46,4,140,0,0,0,0,45.72193501377891,-121.46908417482345,Bingen
+98605,Bingen,WA,shopping,0,0,2,10,0,0,0,0,45.71444483333334,-121.4660756,Bingen
+98605,Bingen,WA,localservices,0,0,0,0,0,0,0,0,45.77,-121.66,Bingen
+98628,Klickitat,WA,restaurants,0,0,1,24,0,0,0,0,45.81413,-121.160964,Klickitat
+98628,Klickitat,WA,shopping,0,0,0,0,0,0,0,0,45.89,-121.08,Klickitat
+98628,Klickitat,WA,localservices,0,0,0,0,0,0,0,0,45.823897,-121.125588,Klickitat
+98814,Carlton,WA,restaurants,0,0,0,0,0,0,0,0,48.21,-120.16,Carlton
+98814,Carlton,WA,shopping,0,0,0,0,0,0,0,0,48.21,-120.16,Carlton
+98814,Carlton,WA,localservices,0,0,0,0,0,0,0,0,48.248416,-120.115985,Carlton
+98817,Chelan Falls,WA,restaurants,0,0,0,0,0,0,0,0,47.79,-119.99,Chelan Falls
+98817,Chelan Falls,WA,shopping,0,0,0,0,0,0,0,0,47.8010456,-119.9850349,Chelan Falls
+98817,Chelan Falls,WA,localservices,0,0,0,0,0,0,0,0,47.79,-119.99,Chelan Falls
+98828,Malaga,WA,restaurants,0,0,0,0,0,0,0,0,47.32,-120.19,Malaga
+98828,Malaga,WA,shopping,0,0,0,0,0,0,0,0,47.32,-120.19,Malaga
+98828,Malaga,WA,localservices,0,0,0,0,0,0,0,0,47.32,-120.19,Malaga
+98843,Orondo,WA,restaurants,0,0,0,0,0,0,1,13,47.72092,-120.18543,Orondo
+98843,Orondo,WA,shopping,0,0,1,1,0,0,0,0,47.7491636,-120.1975977,Orondo
+98843,Orondo,WA,localservices,0,0,0,0,0,0,0,0,47.72,-120.15,Orondo
+99001,Airway Heights,WA,restaurants,9,165,13,639,1,71,0,0,47.64638782610338,-117.57906052711483,Airway Heights
+99001,Airway Heights,WA,shopping,1,7,2,4,0,0,0,0,47.64602037093664,-117.56616501652479,Airway Heights
+99001,Airway Heights,WA,localservices,0,0,0,0,0,0,0,0,47.63903858585205,-117.58732779892574,Airway Heights
+99025,Newman Lake,WA,restaurants,0,0,0,0,0,0,0,0,47.7235282614549,-117.070603854954,Newman Lake
+99025,Newman Lake,WA,shopping,0,0,0,0,0,0,0,0,47.74682,-117.06962,Newman Lake
+99025,Newman Lake,WA,localservices,0,0,0,0,0,0,0,0,47.77,-117.09,Newman Lake
+99344,Othello,WA,restaurants,6,125,9,90,1,3,0,0,46.83401829444699,-119.20258457915763,Othello
+99344,Othello,WA,shopping,1,1,0,0,0,0,1,5,46.82316202368224,-119.1640129648428,Othello
+99344,Othello,WA,localservices,0,0,0,0,0,0,0,0,46.8,-119.15,Othello
+99350,Prosser,WA,restaurants,8,146,11,519,1,8,0,0,46.21254533782454,-119.7769247743789,Prosser
+99350,Prosser,WA,shopping,2,23,3,30,1,3,0,0,46.21202121426026,-119.77690086832388,Prosser
+99350,Prosser,WA,localservices,0,0,0,0,0,0,0,0,46.21666275,-119.78412425,Prosser
+99357,Royal City,WA,restaurants,1,3,1,34,0,0,0,0,46.9011185,-119.64933475000001,Royal City
+99357,Royal City,WA,shopping,0,0,0,0,0,0,0,0,46.9,-119.66,Royal City
+99357,Royal City,WA,localservices,0,0,0,0,0,0,0,0,46.90087,-119.62133,Royal City
+25007,Arnett,WV,restaurants,0,0,0,0,0,0,0,0,37.84,-81.43,Arnett
+25007,Arnett,WV,shopping,0,0,0,0,0,0,0,0,37.84,-81.43,Arnett
+25007,Arnett,WV,localservices,0,0,0,0,0,0,0,0,37.84,-81.43,Arnett
+25081,Foster,WV,restaurants,0,0,0,0,0,0,0,0,38.09,-81.77,Foster
+25081,Foster,WV,shopping,0,0,0,0,0,0,0,0,38.09,-81.77,Foster
+25081,Foster,WV,localservices,0,0,0,0,0,0,0,0,38.09,-81.77,Foster
+25159,Poca,WV,restaurants,0,0,0,0,0,0,0,0,38.45881088082125,-81.81404364876175,Poca
+25159,Poca,WV,shopping,0,0,0,0,0,0,0,0,38.46424804907007,-81.81387486316903,Poca
+25159,Poca,WV,localservices,0,0,0,0,0,0,0,0,38.47,-81.81,Poca
+25169,Ridgeview,WV,restaurants,0,0,0,0,0,0,0,0,38.15,-81.78,Ridgeview
+25169,Ridgeview,WV,shopping,0,0,0,0,0,0,0,0,38.15,-81.78,Ridgeview
+25169,Ridgeview,WV,localservices,0,0,0,0,0,0,0,0,38.15,-81.78,Ridgeview
+25209,Whitesville,WV,restaurants,0,0,0,0,0,0,0,0,37.97,-81.53,Whitesville
+25209,Whitesville,WV,shopping,0,0,0,0,0,0,0,0,37.97,-81.53,Whitesville
+25209,Whitesville,WV,localservices,0,0,0,0,0,0,0,0,37.97,-81.53,Whitesville
+25243,Gandeeville,WV,restaurants,0,0,0,0,0,0,0,0,38.69,-81.46,Gandeeville
+25243,Gandeeville,WV,shopping,0,0,0,0,0,0,0,0,38.69,-81.46,Gandeeville
+25243,Gandeeville,WV,localservices,0,0,0,0,0,0,0,0,38.69,-81.46,Gandeeville
+25253,Letart,WV,restaurants,0,0,0,0,0,0,0,0,38.88,-81.97,Letart
+25253,Letart,WV,shopping,0,0,0,0,0,0,0,0,38.88,-81.97,Letart
+25253,Letart,WV,localservices,0,0,0,0,0,0,0,0,38.88,-81.97,Letart
+25268,Orma,WV,restaurants,0,0,0,0,0,0,0,0,38.74,-81.09,Orma
+25268,Orma,WV,shopping,0,0,0,0,0,0,0,0,38.74,-81.09,Orma
+25268,Orma,WV,localservices,0,0,0,0,0,0,0,0,38.74,-81.09,Orma
+25275,Sandyville,WV,restaurants,0,0,0,0,0,0,0,0,38.9,-81.64,Sandyville
+25275,Sandyville,WV,shopping,0,0,0,0,0,0,0,0,38.9,-81.64,Sandyville
+25275,Sandyville,WV,localservices,0,0,0,0,0,0,0,0,38.9,-81.64,Sandyville
+25403,Martinsburg,WV,restaurants,1,14,3,131,0,0,0,0,39.440217840356084,-77.99064546901612,Martinsburg
+25403,Martinsburg,WV,shopping,2,2,7,25,2,17,0,0,39.44597010634518,-77.98987218663032,Martinsburg
+25403,Martinsburg,WV,localservices,0,0,0,0,0,0,0,0,39.48366095518318,-77.98776483543831,Martinsburg
+25404,Martinsburg,WV,restaurants,8,113,14,336,0,0,0,0,39.4956603341554,-77.93646504124779,Martinsburg
+25404,Martinsburg,WV,shopping,3,15,7,29,1,2,1,5,39.49406152994794,-77.94239515352255,Martinsburg
+25404,Martinsburg,WV,localservices,2,3,0,0,0,0,0,0,39.477673481046544,-77.94487873378093,Martinsburg
+25524,Harts,WV,restaurants,0,0,0,0,0,0,0,0,38.03,-82.13,Harts
+25524,Harts,WV,shopping,0,0,0,0,0,0,0,0,38.03,-82.13,Harts
+25524,Harts,WV,localservices,0,0,0,0,0,0,0,0,38.03,-82.13,Harts
+25559,Salt Rock,WV,restaurants,0,0,0,0,0,0,0,0,38.32,-82.24,Salt Rock
+25559,Salt Rock,WV,shopping,0,0,0,0,0,0,0,0,38.32,-82.24,Salt Rock
+25559,Salt Rock,WV,localservices,0,0,0,0,0,0,0,0,38.32,-82.24,Salt Rock
+25825,Cool Ridge,WV,restaurants,0,0,0,0,0,0,0,0,37.64,-81.08,Cool Ridge
+25825,Cool Ridge,WV,shopping,0,0,0,0,0,0,0,0,37.64,-81.08,Cool Ridge
+25825,Cool Ridge,WV,localservices,0,0,0,0,0,0,0,0,37.64,-81.08,Cool Ridge
+25921,Sophia,WV,restaurants,2,19,0,0,0,0,0,0,37.717653999999996,-81.2470594,Sophia
+25921,Sophia,WV,shopping,0,0,0,0,0,0,0,0,37.707494,-81.2528223,Sophia
+25921,Sophia,WV,localservices,0,0,0,0,0,0,0,0,37.7,-81.25,Sophia
+26056,New Manchester,WV,restaurants,0,0,0,0,0,0,0,0,40.53,-80.58,New Manchester
+26056,New Manchester,WV,shopping,0,0,0,0,0,0,0,0,40.53,-80.58,New Manchester
+26056,New Manchester,WV,localservices,0,0,0,0,0,0,0,0,40.53,-80.58,New Manchester
+26059,Triadelphia,WV,restaurants,4,51,13,510,0,0,0,0,40.05907489819284,-80.59959462469324,Triadelphia
+26059,Triadelphia,WV,shopping,0,0,5,12,1,42,1,1,40.05632310989552,-80.60058985240828,Triadelphia
+26059,Triadelphia,WV,localservices,0,0,0,0,0,0,0,0,40.0535147,-80.6037782,Triadelphia
+26104,Parkersburg,WV,restaurants,6,135,4,50,0,0,0,0,39.28393241745037,-81.5241440506103,Parkersburg
+26104,Parkersburg,WV,shopping,1,1,3,7,0,0,0,0,39.28822915,-81.531328075,Parkersburg
+26104,Parkersburg,WV,localservices,0,0,1,1,0,0,0,0,39.2882205,-81.532266075,Parkersburg
+26273,Huttonsville,WV,restaurants,0,0,0,0,0,0,0,0,38.71,-79.97,Huttonsville
+26273,Huttonsville,WV,shopping,0,0,0,0,0,0,0,0,38.71,-79.97,Huttonsville
+26273,Huttonsville,WV,localservices,0,0,0,0,0,0,0,0,38.71,-79.97,Huttonsville
+26321,Alum Bridge,WV,restaurants,0,0,0,0,0,0,0,0,39.04,-80.69,Alum Bridge
+26321,Alum Bridge,WV,shopping,0,0,0,0,0,0,0,0,39.04,-80.69,Alum Bridge
+26321,Alum Bridge,WV,localservices,0,0,0,0,0,0,0,0,39.04,-80.69,Alum Bridge
+26385,Lost Creek,WV,restaurants,0,0,0,0,0,0,0,0,39.15,-80.35,Lost Creek
+26385,Lost Creek,WV,shopping,0,0,0,0,0,0,0,0,39.15,-80.35,Lost Creek
+26385,Lost Creek,WV,localservices,0,0,0,0,0,0,0,0,39.161214,-80.3520335,Lost Creek
+26581,Littleton,WV,restaurants,0,0,0,0,0,0,0,0,39.69,-80.51,Littleton
+26581,Littleton,WV,shopping,0,0,0,0,0,0,0,0,39.69,-80.51,Littleton
+26581,Littleton,WV,localservices,0,0,0,0,0,0,0,0,39.69,-80.51,Littleton
+53217,Milwaukee,WI,restaurants,25,783,32,2125,1,30,0,0,43.13334252536289,-87.91347075632643,Milwaukee
+53217,Milwaukee,WI,shopping,6,43,29,392,14,140,6,41,43.12414776269349,-87.91301159641473,Milwaukee
+53217,Milwaukee,WI,localservices,0,0,6,68,4,63,1,26,43.13669147429857,-87.91186986642407,Milwaukee
+53581,Richland Center,WI,restaurants,2,16,5,32,0,0,0,0,43.32996675712896,-90.38472458494883,Richland Center
+53581,Richland Center,WI,shopping,3,8,0,0,0,0,0,0,43.32817525894437,-90.37631333223237,Richland Center
+53581,Richland Center,WI,localservices,0,0,0,0,0,0,0,0,43.33,-90.38,Richland Center
+53583,Sauk City,WI,restaurants,7,120,3,134,0,0,0,0,43.26811933274049,-89.72958534968572,Sauk City
+53583,Sauk City,WI,shopping,0,0,1,1,2,4,0,0,43.27232660019752,-89.72513207562578,Sauk City
+53583,Sauk City,WI,localservices,0,0,0,0,0,0,0,0,43.27008844863755,-89.72750425711035,Sauk City
+53704,Madison,WI,restaurants,40,1166,37,3831,0,0,0,0,43.116245513931815,-89.3319812736672,Madison
+53704,Madison,WI,shopping,9,119,39,309,7,65,3,11,43.1186006449972,-89.3203979346807,Madison
+53704,Madison,WI,localservices,5,24,10,131,2,10,1,1,43.115892900111746,-89.34075123627663,Madison
+53916,Beaver Dam,WI,restaurants,16,152,17,380,0,0,0,0,43.465439805230176,-88.82727922199173,Beaver Dam
+53916,Beaver Dam,WI,shopping,6,16,10,29,5,10,0,0,43.46552565234804,-88.83022877284367,Beaver Dam
+53916,Beaver Dam,WI,localservices,0,0,0,0,0,0,0,0,43.46851611686982,-88.82675472146872,Beaver Dam
+53954,Pardeeville,WI,restaurants,4,42,0,0,0,0,0,0,43.52911536932714,-89.32212571700732,Pardeeville
+53954,Pardeeville,WI,shopping,1,3,1,1,0,0,0,0,43.54868350518554,-89.296387369375,Pardeeville
+53954,Pardeeville,WI,localservices,0,0,0,0,0,0,0,0,43.5330214087565,-89.29661329957683,Pardeeville
+54141,Oconto,WI,restaurants,0,0,2,27,0,0,0,0,44.731437945399165,-88.02081990392924,Little Suamico
+54141,Oconto,WI,shopping,0,0,0,0,0,0,0,0,44.71567,-88.029785,Little Suamico
+54141,Oconto,WI,localservices,0,0,0,0,0,0,0,0,44.71,-88.01,Little Suamico
+54173,Suamico,WI,restaurants,1,15,1,34,1,89,0,0,44.63267377741211,-88.05066236671874,Suamico
+54173,Suamico,WI,shopping,0,0,0,0,0,0,0,0,44.630035,-88.040975,Suamico
+54173,Suamico,WI,localservices,0,0,0,0,0,0,0,0,44.6557170428467,-88.04600056030276,Suamico
+54424,Deerbrook,WI,restaurants,0,0,1,3,0,0,0,0,45.31776203633827,-89.12119161006115,Deerbrook
+54424,Deerbrook,WI,shopping,0,0,0,0,0,0,0,0,45.23,-89.16,Deerbrook
+54424,Deerbrook,WI,localservices,0,0,0,0,0,0,0,0,45.23,-89.16,Deerbrook
+54441,Hewitt,WI,restaurants,0,0,0,0,0,0,0,0,44.64,-90.1,Hewitt
+54441,Hewitt,WI,shopping,0,0,0,0,0,0,0,0,44.64,-90.1,Hewitt
+54441,Hewitt,WI,localservices,0,0,0,0,0,0,0,0,44.64,-90.1,Hewitt
+54560,Sayner,WI,restaurants,0,0,3,50,0,0,0,0,45.98522738194067,-89.50766584878363,Sayner
+54560,Sayner,WI,shopping,1,1,0,0,0,0,0,0,45.992455766666666,-89.54416446666669,Sayner
+54560,Sayner,WI,localservices,0,0,0,0,0,0,0,0,46.0,-89.53,Sayner
+54566,Wabeno,WI,restaurants,1,2,1,8,0,0,0,0,45.4442245252326,-88.67720622757118,Wabeno
+54566,Wabeno,WI,shopping,0,0,1,8,0,0,0,0,45.43905,-88.64174,Wabeno
+54566,Wabeno,WI,localservices,0,0,0,0,0,0,0,0,45.4377518,-88.6633377,Wabeno
+54720,Altoona,WI,restaurants,2,33,4,86,0,0,0,0,44.803908238244404,-91.45184013022637,Altoona
+54720,Altoona,WI,shopping,0,0,0,0,1,3,0,0,44.80818143654625,-91.4590769285389,Altoona
+54720,Altoona,WI,localservices,0,0,0,0,0,0,0,0,44.8010614,-91.4328671,Altoona
+54754,Merrillan,WI,restaurants,1,5,0,0,1,18,0,0,44.42700157300277,-90.78360963377531,Merrillan
+54754,Merrillan,WI,shopping,0,0,0,0,0,0,0,0,44.45,-90.83,Merrillan
+54754,Merrillan,WI,localservices,0,0,0,0,0,0,0,0,44.45,-90.83,Merrillan
+54850,La Pointe,WI,restaurants,0,0,4,103,0,0,0,0,46.77841313845596,-90.78701413216474,La Pointe
+54850,La Pointe,WI,shopping,0,0,0,0,0,0,0,0,46.7801436468771,-90.7880954696956,La Pointe
+54850,La Pointe,WI,localservices,0,0,0,0,0,0,0,0,46.9371,-90.58098,La Pointe
+54874,South Range,WI,restaurants,1,6,1,9,0,0,0,0,46.605013,-91.91712050000001,South Range
+54874,South Range,WI,shopping,0,0,0,0,0,0,0,0,46.58,-91.93,South Range
+54874,South Range,WI,localservices,0,0,0,0,0,0,0,0,46.58,-91.93,South Range
+54896,Winter,WI,restaurants,3,18,2,11,0,0,0,0,45.8118348241184,-90.93665679164552,Winter
+54896,Winter,WI,shopping,1,2,0,0,0,0,0,0,45.82177,-91.0118899,Winter
+54896,Winter,WI,localservices,0,0,0,0,0,0,0,0,45.8248291015625,-91.0093688964844,Winter
+54971,Ripon,WI,restaurants,9,93,8,258,0,0,0,0,43.844679565156916,-88.85412663672771,Ripon
+54971,Ripon,WI,shopping,1,3,5,6,2,4,0,0,43.84732263225621,-88.84414431820908,Ripon
+54971,Ripon,WI,localservices,0,0,0,0,0,0,0,0,43.850097000000005,-88.845035,Ripon
+54982,Wautoma,WI,restaurants,9,51,4,119,0,0,0,0,44.06744123114988,-89.27282905267154,Wautoma
+54982,Wautoma,WI,shopping,4,12,1,1,0,0,0,0,44.07320729434025,-89.28796334049518,Wautoma
+54982,Wautoma,WI,localservices,0,0,0,0,0,0,0,0,44.056923000000005,-89.27748966666667,Wautoma
+82060,Hillsdale,WY,restaurants,0,0,0,0,0,0,0,0,41.21,-104.48,Hillsdale
+82060,Hillsdale,WY,shopping,0,0,0,0,0,0,0,0,41.21,-104.48,Hillsdale
+82060,Hillsdale,WY,localservices,0,0,0,0,0,0,0,0,41.21,-104.48,Hillsdale
+82435,Powell,WY,restaurants,9,62,3,23,0,0,0,0,44.75018411790994,-108.7645148565385,Powell
+82435,Powell,WY,shopping,3,7,4,5,1,1,0,0,44.752711871993135,-108.76206365837565,Powell
+82435,Powell,WY,localservices,0,0,0,0,0,0,0,0,44.73969539613038,-108.808186808081,Powell
+83013,Moran,WY,restaurants,0,0,9,245,2,82,0,0,43.880504115795944,-110.56818829091826,Moran
+83013,Moran,WY,shopping,0,0,0,0,0,0,0,0,43.84,-110.5,Moran
+83013,Moran,WY,localservices,0,0,0,0,0,0,0,0,43.84,-110.5,Moran

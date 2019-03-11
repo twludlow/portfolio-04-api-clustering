@@ -1,0 +1,18 @@
+Combined Yelp and IRS data to create X and y for train/test split
+
+Models Run:
+    Linear Regression, SVR
+    Standard Scaler
+    Results - awful, ranging -1.3(!) to best of 0.05 (R^2/cross-val)
+
+Ideas:
+    Narrow scope to metro areas
+    Data contains lots of 0-values
+    
+    Combine categories into single total columns (i.e. total $, total $$,...)
+    Multiply $ by # reviews as polynomial feature
+    
+Next Steps:
+    Goals:
+        - Pull remaining USA yelp data, combine with existing models to compare 
+        - Start smaller/medium models
