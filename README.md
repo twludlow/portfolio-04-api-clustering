@@ -53,19 +53,17 @@ We also developed a Python Class library that, given a list of NYC Zipcodes or n
 |**pr_4ws**|*float*|KMeans Clustering, KNN Classifier|Floating point standardized ("s") value for number of \$\$\$\$ priced ("pr_4") establishments in top 100 best match for search location, weighted ("w") by price level|
 |**pr_totws**|*float*|KMeans Clustering, KNN Classifier|Floating point standardized ("s") value for total weighted price counts ("tot", "w") for top 100 best match for search location|
 
-- [Notebook 02 - Yelp Fusion API](https://github.com/twludlow/ga_project_4/blob/master/notebooks/02%20-%20Yelp%20Fusion%20API.ipynb)
-- [Notebook 03 - IRS Data](https://github.com/twludlow/ga_project_4/blob/master/notebooks/03%20-%20IRS_data_collection_and_cleaning.ipynb)
-- [Notebook 04 - API Pull for Training Data](https://github.com/twludlow/ga_project_4/blob/master/notebooks/04%20-%20API%20Pull%20for%20Training%20Data.ipynb)
-- Our data was acquired via Yelp's Fusion API `from yelpapi import YelpAPI`. We set our Yelp Fusion API Key and established an API connection. From there we stored the data we gathered into a `Pandas` DataFrame.
-- The search criteria included all Yelp's categories (e.g., shops, restaurants), filtered by Yelp's "best match" option.
-- We gathered the top 100 business prices and reviews from 278 NYC zipcodes. 
+- [Notebook 02 - Yelp Fusion API](https://github.com/twludlow/portfolio-04-api-clustering/blob/master/02%20-%20Yelp%20Fusion%20API.ipynb)
+- [Notebook 03 - IRS Data](https://github.com/twludlow/portfolio-04-api-clustering/blob/master/03%20-%20IRS_data_collection_and_cleaning.ipynb)
+- [Notebook 04 - API Pull for Training Data](https://github.com/twludlow/portfolio-04-api-clustering/blob/master/04%20-%20API%20Pull%20for%20Training%20Data.ipynb)
+
+Our data was acquired via Yelp's Fusion API `from yelpapi import YelpAPI`. We set our Yelp Fusion API Key and established an API connection. From there we stored the data we gathered into a `Pandas` DataFrame.
+The search criteria included all Yelp's categories (e.g., shops, restaurants), filtered by Yelp's "best match" option.  We gathered the top 100 business prices and reviews from 278 NYC zipcodes. 
 
  
-
-
 ### Analysis
-- [Notebook 05 - Yelp Cluster Gridsearch](https://github.com/twludlow/ga_project_4/blob/master/notebooks/05%20-%20Yelp%20Cluster%20Grid%20Search%20-%20NYC.ipynb)
-- [Notebook 06 - K-Means Modeling](https://github.com/twludlow/ga_project_4/blob/master/notebooks/06%20-%20Yelp%20K-Means%20Model%20-%20NYC.ipynb)
+- [Notebook 05 - Yelp Cluster Gridsearch](https://github.com/twludlow/portfolio-04-api-clustering/blob/master/05%20-%20Yelp%20Cluster%20Grid%20Search%20-%20NYC.ipynb)
+- [Notebook 06 - K-Means Modeling](https://github.com/twludlow/portfolio-04-api-clustering/blob/master/06%20-%20Yelp%20K-Means%20Model%20-%20NYC.ipynb)
 
 In our analysis, we used a Grid search through 3 different clustering models (K-Means, Agglomerative and Hierarchical) and changing hyperparameters (e.g., n_clusters, inits, linkage_method, affinity).  We assessed the Silhouette Score, Inertia Score and other observations for each cluster, finally confirming that K-Means yielded best results.
 
@@ -74,8 +72,8 @@ With these models, we developed a class library to share with our client: yelpaf
   
 
 ### Conclusion
-- [Notebook 01 - Yelp Affluence Demo](https://github.com/twludlow/ga_project_4/blob/master/notebooks/01%20-%20Yelp%20Affluence%20Demo%20190118.ipynb)
-- [Notebook 07 - Yelp Class Development](https://github.com/twludlow/ga_project_4/blob/master/notebooks/07%20-%20Yelp%20Class%20Development.ipynb)
+- [Notebook 01 - Yelp Affluence Demo](https://github.com/twludlow/portfolio-04-api-clustering/blob/master/01%20-%20Yelp%20Affluence%20Demo%20190118.ipynb)
+- [Notebook 07 - Yelp Class Development](https://github.com/twludlow/portfolio-04-api-clustering/blob/master/07%20-%20Yelp%20Class%20Development.ipynb)
 
 After optimizing our K-Means model, we deployed the K-Nearest Neighbors Classifier (n=15) to assign a label to our queried locations.  We found that the K-Means model sorted all NYC ZIP codes into 4 separate groups, which we have labeled "\$", "\$\$", "\$\$\$", and "\$\$\$\$" to match Yelp's existing pricing scale.
 
