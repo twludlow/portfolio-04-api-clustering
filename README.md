@@ -1,30 +1,30 @@
 # ![](https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png) Estimating Neighborhood Affluence With Yelp Data
 
 ## Project Authors
-- Bernard Kurka | <u>[LinkedIn](https://www.linkedin.com/in/bernardkurka)</u> | <u>[Email](mailto:bkexcel2014@gmail.com)</u>
-- Thomas Ludlow | <u>[LinkedIn](https://www.linkedin.com/in/twludlow)</u> | <u>[Email](mailto:tludlow@gmail.com)</u>
-- Brittany Allen | <u>[LinkedIn](https://www.linkedin.com/in/brittlallen)</u> | <u>[Email](mailto:thebrittallen@gmail.com)</u>
+- Bernard Kurka | [LinkedIn](https://www.linkedin.com/in/bernardkurka) | [Email](mailto:bkexcel2014@gmail.com)
+- Thomas Ludlow | [LinkedIn](https://www.linkedin.com/in/twludlow) | [Email](mailto:tludlow@gmail.com)
+- Brittany Allen | [LinkedIn](https://www.linkedin.com/in/brittlallen) | [Email](mailto:thebrittallen@gmail.com)
 
 ## Presentation Slides
 - https://docs.google.com/presentation/d/1a9jGkPlWrMeTOaTl-t5zsYTpBsu5WPCP6Zb0eF-3wws/edit?usp=sharing
-- NLT Project_ Estimating Neighborhood Affluence with Yelp Data — Bernard K, Thomas L, Brittany A.pdf
+- [NLT Project_ Estimating Neighborhood Affluence with Yelp Data — Bernard K, Thomas L, Brittany A.pdf](https://github.com/twludlow/portfolio-04-api-clustering/blob/master/Project%204%20Ludlow_Allen_Kurka%20-%20Yelp%20Slides.pdf)
 
 
 ## Notebooks
-- [Notebook 01 - Yelp Affluence Demo](https://github.com/twludlow/ga_project_4/blob/master/notebooks/01%20-%20Yelp%20Affluence%20Demo%20190118.ipynb)
-- [Notebook 02 - Yelp Fusion API](https://github.com/twludlow/ga_project_4/blob/master/notebooks/02%20-%20Yelp%20Fusion%20API.ipynb)
-- [Notebook 03 - IRS Data](https://github.com/twludlow/ga_project_4/blob/master/notebooks/03%20-%20IRS_data_collection_and_cleaning.ipynb)
-- [Notebook 04 - API Pull for Training Data](https://github.com/twludlow/ga_project_4/blob/master/notebooks/04%20-%20API%20Pull%20for%20Training%20Data.ipynb)
-- [Notebook 05 - Yelp Cluster Gridsearch](https://github.com/twludlow/ga_project_4/blob/master/notebooks/05%20-%20Yelp%20Cluster%20Grid%20Search%20-%20NYC.ipynb)
-- [Notebook 06 - K-Means Modeling](https://github.com/twludlow/ga_project_4/blob/master/notebooks/06%20-%20Yelp%20K-Means%20Model%20-%20NYC.ipynb)
-- [Notebook 07 - Yelp Class Development](https://github.com/twludlow/ga_project_4/blob/master/notebooks/07%20-%20Yelp%20Class%20Development.ipynb)
+- [Notebook 01 - Yelp Affluence Demo](https://github.com/twludlow/portfolio-04-api-clustering/blob/master/01%20-%20Yelp%20Affluence%20Demo%20190118.ipynb)
+- [Notebook 02 - Yelp Fusion API](https://github.com/twludlow/portfolio-04-api-clustering/blob/master/02%20-%20Yelp%20Fusion%20API.ipynb)
+- [Notebook 03 - IRS Data](https://github.com/twludlow/portfolio-04-api-clustering/blob/master/03%20-%20IRS_data_collection_and_cleaning.ipynb)
+- [Notebook 04 - API Pull for Training Data](https://github.com/twludlow/portfolio-04-api-clustering/blob/master/04%20-%20API%20Pull%20for%20Training%20Data.ipynb)
+- [Notebook 05 - Yelp Cluster Gridsearch](https://github.com/twludlow/portfolio-04-api-clustering/blob/master/05%20-%20Yelp%20Cluster%20Grid%20Search%20-%20NYC.ipynb)
+- [Notebook 06 - K-Means Modeling](https://github.com/twludlow/portfolio-04-api-clustering/blob/master/06%20-%20Yelp%20K-Means%20Model%20-%20NYC.ipynb)
+- [Notebook 07 - Yelp Class Development](https://github.com/twludlow/portfolio-04-api-clustering/blob/master/07%20-%20Yelp%20Class%20Development.ipynb)
 
 
 ## Table of contents
-- <u>[Executive Summary](#header)</u>
-- <u>[The Data](#header)</u>
-- <u>[Analysis](#header)</u>
-- <u>[Conclusion](#header)</u>
+- [Executive Summary](#Executive-Summary)
+- [The Data](#The-Data)
+- [Analysis](#Analysis)
+- [Conclusion](#Conclusion)
 
 
 ### Executive Summary
